@@ -19,12 +19,11 @@ Jag skriver för att uttrycka mitt starka intresse för att ansluta till ert fö
 
 Min passion för IT har funnits med mig sedan jag var liten. Det var under gymnasietiden som mitt intresse för programmering verkligen tog fart och jag började utforska olika programmeringsspråk, inklusive Python, HTML, CSS och PHP.
 
-Denna fascination för teknik och programmering ledde mig till att besluta mig för att fördjupa min utbildning som systemutvecklare inom .NET på Yrkeshögskolan i Borås. Under den här perioden fick jag också den unika möjligheten att praktisera hos Volvo Powertrain i Göteborg.
+Detta intresse för teknik och programmering ledde mig till att besluta mig för att fördjupa min utbildning som systemutvecklare inom .NET på Yrkeshögskolan i Borås. Under den här perioden fick jag också den unika möjligheten att praktisera hos Volvo Powertrain i Göteborg.
 
 På min fritid spelar jag fotboll, vilket har gett mig goda kunskaper att jobba i team och utvecklat min förmåga att samarbeta effektivt med andra.
 
 
-Denna fascination för teknik och programmering ledde mig till att besluta mig för att fördjupa min utbildning som systemutvecklare inom .NET på Yrkeshögskolan i Borås. Under den här perioden fick jag också den unika möjligheten att praktisera hos Volvo Powertrain i Göteborg.
 
 ### Praktik på Volvo Powertrain
 
