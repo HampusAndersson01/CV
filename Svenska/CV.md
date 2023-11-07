@@ -26,7 +26,7 @@ Uddarnas väg 4C, 43294 Varberg
 
 - Praktik på Volvo Powertrain Göteborg
   .NET Systemutveckling
-  Juli 2023 - Juni 2023
+  Nov 2022 - Juni 2023
 
 - Deltidsanställning
   Gekås Ullared AB, Ullared
