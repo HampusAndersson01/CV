@@ -32,13 +32,13 @@ jobs:
       - name: Generate PDFs - Engelska
         run: |
           for file in Engelska/*.md; do
-            pandoc -f markdown ${file} -o $(dirname "$file")/pdf/${base_name}.pdf
+            pandoc -f markdown ${file} -o Engelska/pdf/${base_name}.pdf
           done
 
       - name: Generate PDFs - Svenska
         run: |
           for file in Svenska/*.md; do
-            pandoc -f markdown ${file} -o $(dirname "$file")/pdf/${base_name}.pdf
+            pandoc -f markdown ${file} -o Svenska/pdf/${base_name}.pdf
           done
 
       - name: Commit and push PDFs
