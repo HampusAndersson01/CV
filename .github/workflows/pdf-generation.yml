@@ -2,9 +2,8 @@ name: Generate PDFs
 
 on:
   push:
-    paths:
-      - "Engelska/*.md"
-      - "Svenska/*.md"
+    branches:
+      - main
 
 jobs:
   build:
@@ -25,12 +24,12 @@ jobs:
 
       - name: Generate PDFs
         run: |
-          for file in CV/Engelska/*.md; do
+          for file in Engelska/*.md; do
             markdown-pdf "$file"
             mv "${file%.md}.pdf" "${file%.md}/pdf/"
           done
 
-          for file in CV/Svenska/*.md; do
+          for file in Svenska/*.md; do
             markdown-pdf "$file"
             mv "${file%.md}.pdf" "${file%.md}/pdf/"
           done
