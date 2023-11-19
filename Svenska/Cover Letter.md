@@ -6,40 +6,27 @@
 Uddarnas väg 4C, 43294 Varberg  
 0763371517 | hampe.01@hotmail.com
 
-
 ---
 
 ## Personligt Brev
 
 **Hej,**
 
-Jag skriver för att uttrycka mitt starka intresse för att ansluta till ert företag. Jag är en passionerad teknikentusiast med en stark önskan att bidra till spännande projekt och leverera högkvalitativ kod. Jag tror att min erfarenhet och tekniska kompetens kan vara en värdefull tillgång för ert team.
+Jag är Hampus Andersson, en nyutbildad systemutvecklare med ett starkt intresse för teknik. Efter att ha avslutat min utbildning inom .NET på Yrkeshögskolan i Borås och praktiserat hos Volvo Powertrain i Göteborg, ser jag nu fram emot att påbörja min karriär inom systemutveckling.
 
 ### Bakgrund
 
-Min passion för IT har funnits med mig sedan jag var liten. Det var under gymnasietiden som mitt intresse för programmering verkligen tog fart och jag började utforska olika programmeringsspråk, inklusive Python, HTML, CSS och PHP.
-
-Denna fascination för teknik och programmering ledde mig till att besluta mig för att fördjupa min utbildning som systemutvecklare inom .NET på Yrkeshögskolan i Borås. Under den här perioden fick jag också den unika möjligheten att praktisera hos Volvo Powertrain i Göteborg.
-
-På min fritid spelar jag fotboll, vilket har gett mig goda kunskaper att jobba i team och utvecklat min förmåga att samarbeta effektivt med andra.
-
-
-Denna fascination för teknik och programmering ledde mig till att besluta mig för att fördjupa min utbildning som systemutvecklare inom .NET på Yrkeshögskolan i Borås. Under den här perioden fick jag också den unika möjligheten att praktisera hos Volvo Powertrain i Göteborg.
+Redan under gymnasiet fångades jag av teknikens värld, och genom åren har jag utforskat olika programmeringsspråk som Python, HTML, CSS och PHP. Utbildningen som systemutvecklare och min tid hos Volvo Powertrain har inte bara gett mig en solid grund utan också konkreta insikter i hur mina kunskaper kan tillämpas praktiskt.
 
 ### Praktik på Volvo Powertrain
 
-Under min praktik, som sträckte sig över ungefär ett halvår, hade jag förmånen att arbeta inom ett C#-utvecklingsteam som fokuserade på att skapa en intern applikation för Volvo. Denna erfarenhet var ovärderlig och gav mig djup inblick i att arbeta i en verklig, agil arbetsmiljö.
-
-Under min tid på Volvo Powertrain, deltog jag aktivt i utvecklingen av den interna applikationen. Jag arbetade i nära samarbete med teamet för att utforma och implementera lösningar, vilket stärkte mina färdigheter inom C#-utveckling och min förmåga att samarbeta effektivt med kollegor.
-
-Denna praktik gav mig också möjlighet att fördjupa min förståelse för agil utveckling och dess principer. Jag fick erfarenhet av att hantera krav från olika intressenter, hantera projektets tidsramar och leverera lösningar som uppfyllde höga kvalitetsstandarder.
-
-Denna period inom Volvo var en betydande milstolpe i min karriär och hjälpte mig att utveckla praktiska färdigheter och insikter som jag nu kan tillämpa inom mitt arbete som systemutvecklare.
+Min tid inom ett C#-utvecklingsteam på Volvo Powertrain var en intensiv och lärorik period där jag aktivt deltog i utvecklingen av en intern applikation. Att arbeta agilt blev en naturlig del av min vardag, och jag ser fram emot att använda dessa erfarenheter i framtida uppdrag.
 
 ### Tekniska Färdigheter
 
-Jag har skaffat en gedigen erfarenhet inom språk som C#, Javascript och Typescript. Dessutom har jag kunskap inom React, MySQL och agil utveckling. Jag brinner för att producera ren och effektiv kod och är dedikerad till att följa bästa praxis inom webbutveckling.
+Jag har en gedigen erfarenhet inom C#, Javascript och Typescript samt kunskap inom React, MySQL och agil utveckling. Att fortsätta utveckla dessa färdigheter och applicera dem på praktiska och effektiva lösningar är en av mina huvudmål som systemutvecklare.
 
+Jag ser verkligen fram emot att få möjligheten att bidra till era projekt och samtidigt utvecklas vidare i en dynamisk arbetsmiljö. Tack för att ni tar er tid att läsa mitt brev, och jag hoppas på möjligheten att diskutera hur jag kan vara en tillgång för ert team.
 
 **Vänliga hälsningar,**
 
