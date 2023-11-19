@@ -24,6 +24,11 @@ jobs:
           sudo apt-get install -y pandoc
           sudo apt-get install texlive
 
+      - name: Create PDF directories
+        run: |
+          mkdir -p Engelska/pdf
+          mkdir -p Svenska/pdf
+
       - name: Generate PDFs
         run: |
           for file in Engelska/*.md; do
