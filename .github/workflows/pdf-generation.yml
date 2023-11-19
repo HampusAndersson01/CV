@@ -22,7 +22,6 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc
-          sudo apt-get install texlive
 
       - name: Create PDF directories
         run: |
@@ -32,13 +31,13 @@ jobs:
       - name: Generate PDFs - Engelska
         run: |
           for file in Engelska/*.md; do
-            pandoc -f markdown ${file} -o Engelska/pdf/${base_name}.pdf
+            pandoc "$file" -o "Engelska/pdf/${file%.md}.pdf"
           done
 
       - name: Generate PDFs - Svenska
         run: |
           for file in Svenska/*.md; do
-            pandoc -f markdown ${file} -o Svenska/pdf/${base_name}.pdf
+            pandoc "$file" -o "Svenska/pdf/${file%.md}.pdf"
           done
 
       - name: Commit and push PDFs
