@@ -24,7 +24,7 @@ Min tid inom ett C#-utvecklingsteam på Volvo Powertrain var en intensiv och lä
 
 ### Tekniska Färdigheter
 
-Jag har en gedigen erfarenhet inom C#, Javascript och Typescript samt kunskap inom React, MySQL och agil utveckling. Att fortsätta utveckla dessa färdigheter och applicera dem på praktiska och effektiva lösningar är en av mina huvudmål som systemutvecklare.
+Jag har en gedigen erfarenhet inom C#, Javascript och Typescript samt kunskap inom React, MySQL och agil utveckling. Att fortsätta utveckla dessa färdigheter och applicera dem på praktiska och effektiva lösningar är ett av mina huvudmål som systemutvecklare.
 
 Jag ser verkligen fram emot att få möjligheten att bidra till era projekt och samtidigt utvecklas vidare i en dynamisk arbetsmiljö. Tack för att ni tar er tid att läsa mitt brev, och jag hoppas på möjligheten att diskutera hur jag kan vara en tillgång för ert team.
 
