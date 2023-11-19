@@ -42,6 +42,6 @@ jobs:
           git config --global user.name "GitHub Actions"
           git add .
           git commit -m "Auto-generate PDFs" || true
-          git push https://$GH_TOKEN@github.com/$GITHUB_REPOSITORY.git HEAD:main
+          git push origin HEAD:main
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
