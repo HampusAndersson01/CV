@@ -32,15 +32,15 @@ jobs:
       - name: Generate PDFs - Engelska
         run: |
           for file in Engelska/*.md; do
-            pandoc "$file" -o "Engelska/pdf/${file%.md}.pdf"
+            pandoc -f markdown ${file} -o $(dirname "$file")/pdf/${base_name}.pdf
           done
 
       - name: Generate PDFs - Svenska
         run: |
           for file in Svenska/*.md; do
-            pandoc "$file" -o "Svenska/pdf/${file%.md}.pdf"
+            pandoc -f markdown ${file} -o $(dirname "$file")/pdf/${base_name}.pdf
           done
-          
+
       - name: Commit and push PDFs
         run: |
           git config --global user.email "actions@github.com"
