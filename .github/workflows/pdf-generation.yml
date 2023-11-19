@@ -31,13 +31,13 @@ jobs:
       - name: Generate PDFs - Engelska
         run: |
           for file in Engelska/*.md; do
-            pandoc "$file" -o "pdf/${file%.md}.pdf" --pdf-engine=xelatex
+            pandoc -f markdown ${file} -o "pdf/${file%.md}.pdf" --pdf-engine=xelatex
           done
 
       - name: Generate PDFs - Svenska
         run: |
           for file in Svenska/*.md; do
-            pandoc "$file" -o "pdf/${file%.md}.pdf" --pdf-engine=xelatex
+            pandoc -f markdown ${file} -o "pdf/${}.pdf" --pdf-engine=xelatex
           done
 
       - name: Commit and push PDFs
