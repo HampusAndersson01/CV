@@ -18,22 +18,19 @@ jobs:
         with:
           node-version: "14"
 
-      - name: Install dependencies
+      - name: Install pandoc
         run: |
-          npm install -g markdown-pdf
+          sudo apt-get update
+          sudo apt-get install -y pandoc
 
       - name: Generate PDFs
         run: |
           for file in Engelska/*.md; do
-            markdown-pdf "$file"
-            mkdir -p "$(dirname "$file")/pdf"
-            mv "${file%.md}.pdf" "$(dirname "$file")/pdf/"
+            pandoc "$file" -o "$(dirname "$file")/pdf/${file%.md}.pdf"
           done
 
           for file in Svenska/*.md; do
-            markdown-pdf "$file"
-            mkdir -p "$(dirname "$file")/pdf"
-            mv "${file%.md}.pdf" "$(dirname "$file")/pdf/"
+            pandoc "$file" -o "$(dirname "$file")/pdf/${file%.md}.pdf"
           done
 
       - name: Commit and push PDFs
