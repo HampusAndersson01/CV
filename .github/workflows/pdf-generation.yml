@@ -39,9 +39,4 @@ jobs:
           git commit -m "Convert MD to PDF"
           git push
 
-      - name: Upload PDFs to releases
-        uses: actions/upload-artifact@v2
-        with:
-          name: pdf-artifacts
-          path: ./Svenska/pdf/, ./Engelska/pdf/
-          if-no-files-found: error
+     
