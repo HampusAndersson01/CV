@@ -23,13 +23,13 @@ jobs:
 
       - name: Convert Engelska MD to PDF
         run: |
-          pandoc -s ./Engelska/Cover\ Letter.md -o ./CV/Engelska/pdf/Cover\ Letter.pdf
-          pandoc -s ./Engelska/CV.md -o ./CV/Engelska/pdf/CV.pdf
+          pandoc -s ./Engelska/Cover\ Letter.md -o ./Engelska/pdf/Cover\ Letter.pdf
+          pandoc -s ./Engelska/CV.md -o ./Engelska/pdf/CV.pdf
 
       - name: Convert Svenska MD to PDF
         run: |
-          pandoc -s ./Svenska/Cover\ Letter.md -o ./CV/Svenska/pdf/Cover\ Letter.pdf
-          pandoc -s ./Svenska/CV.md -o ./CV/Svenska/pdf/CV.pdf
+          pandoc -s ./Svenska/Cover\ Letter.md -o ./Svenska/pdf/Cover\ Letter.pdf
+          pandoc -s ./Svenska/CV.md -o ./Svenska/pdf/CV.pdf
 
       - name: Commit and push changes
         run: |
