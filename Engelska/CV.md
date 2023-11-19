@@ -26,7 +26,7 @@ Uddarnas väg 4C, 43294 Varberg
 
 - Internship at Volvo Powertrain Gothenburg
   .NET System Development
-  July 2023 - June 2023
+  Nov 2022 - June 2023
 
 - Part-time Employment
   Gekås Ullared AB, Ullared
