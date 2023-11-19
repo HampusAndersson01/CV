@@ -32,11 +32,11 @@ jobs:
       - name: Generate PDFs
         run: |
           for file in Engelska/*.md; do
-            pandoc "$file" -o "$(dirname "$file")/pdf/${file%.md}.pdf"
+            pandoc "$file" -o "Engelska/pdf/${file%.md}.pdf"
           done
 
           for file in Svenska/*.md; do
-            pandoc "$file" -o "$(dirname "$file")/pdf/${file%.md}.pdf"
+            pandoc "$file" -o "Svenska/pdf/${file%.md}.pdf"
           done
 
       - name: Commit and push PDFs
