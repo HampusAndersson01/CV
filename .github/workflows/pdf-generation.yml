@@ -3,8 +3,7 @@ name: Convert MD to PDF
 on:
   push:
     branches:
-      - main # You can adjust the branch as needed
-
+      - main
 jobs:
   convert-md-to-pdf:
     runs-on: ubuntu-latest
@@ -19,8 +18,8 @@ jobs:
           sudo apt-get install -y pandoc
 
       - name: Install pdflatex
-      run: |
-        sudo apt-get install -y texlive-xetex
+        run: |
+          sudo apt-get install -y texlive-xetex
 
       - name: Convert Engelska MD to PDF
         run: |
