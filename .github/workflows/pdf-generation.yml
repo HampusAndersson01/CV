@@ -18,19 +18,20 @@ jobs:
         with:
           node-version: "14"
 
-      - name: Install pandoc
+      - name: Install required packages
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc
+          sudo apt-get install texlive
 
       - name: Generate PDFs
         run: |
           for file in Engelska/*.md; do
-            pandoc "$file" -o "$(dirname "$file")/pdf/${file%.md}.pdf"
+            pandoc "$file" -o "$(dirname "$file")/pdf/${file%.md}.pdf" --pdf-engine=xelatex
           done
 
           for file in Svenska/*.md; do
-            pandoc "$file" -o "$(dirname "$file")/pdf/${file%.md}.pdf"
+            pandoc "$file" -o "$(dirname "$file")/pdf/${file%.md}.pdf" --pdf-engine=xelatex
           done
 
       - name: Commit and push PDFs
