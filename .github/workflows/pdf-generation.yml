@@ -26,12 +26,14 @@ jobs:
         run: |
           for file in Engelska/*.md; do
             markdown-pdf "$file"
-            mv "${file%.md}.pdf" "/pdf/"
+            mkdir -p "$(dirname "$file")/pdf"
+            mv "${file%.md}.pdf" "$(dirname "$file")/pdf/"
           done
 
           for file in Svenska/*.md; do
             markdown-pdf "$file"
-            mv "${file%.md}.pdf" "/pdf/"
+            mkdir -p "$(dirname "$file")/pdf"
+            mv "${file%.md}.pdf" "$(dirname "$file")/pdf/"
           done
 
       - name: Commit and push PDFs
