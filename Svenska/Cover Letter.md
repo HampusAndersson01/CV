@@ -16,7 +16,7 @@ Jag är Hampus Andersson, en nyutbildad systemutvecklare med ett starkt intresse
 
 ### Bakgrund
 
-Det var under gymnasiet som jag fastnade för programmering, och genom åren har jag utforskat olika programmeringsspråk som Python, HTML, CSS och PHP. Utbildningen som systemutvecklare och min tid hos Volvo Powertrain har inte bara gett mig en djupare förståelse för programmering, utan också hur dessa kunskaper kan tillämpas i praktiken.
+Det var under gymnasiet som jag fastnade för programmering och genom åren har jag utforskat olika programmeringsspråk som Python, HTML, CSS och PHP. Utbildningen som systemutvecklare och min tid hos Volvo Powertrain har inte bara gett mig en djupare förståelse för programmering, utan också hur dessa kunskaper kan tillämpas i praktiken.
 
 ### Praktik på Volvo Powertrain
 
