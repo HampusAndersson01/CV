@@ -16,7 +16,7 @@ Jag är Hampus Andersson, en nyutbildad systemutvecklare med ett starkt intresse
 
 ### Bakgrund
 
-Redan under gymnasiet fångades jag av teknikens värld, och genom åren har jag utforskat olika programmeringsspråk som Python, HTML, CSS och PHP. Utbildningen som systemutvecklare och min tid hos Volvo Powertrain har inte bara gett mig en solid grund utan också konkreta insikter i hur mina kunskaper kan tillämpas praktiskt.
+Det var under gymnasiet som jag fastnade för programmering, och genom åren har jag utforskat olika programmeringsspråk som Python, HTML, CSS och PHP. Utbildningen som systemutvecklare och min tid hos Volvo Powertrain har inte bara gett mig en djupare förståelse för programmering, utan också hur dessa kunskaper kan tillämpas i praktiken.
 
 ### Praktik på Volvo Powertrain
 
@@ -26,7 +26,7 @@ Min tid inom ett C#-utvecklingsteam på Volvo Powertrain var en intensiv och lä
 
 Jag har en gedigen erfarenhet inom C#, Javascript och Typescript samt kunskap inom React, MySQL och agil utveckling. Att fortsätta utveckla dessa färdigheter och applicera dem på praktiska och effektiva lösningar är ett av mina huvudmål som systemutvecklare.
 
-Jag ser verkligen fram emot att få möjligheten att bidra till era projekt och samtidigt utvecklas vidare i en dynamisk arbetsmiljö. Tack för att ni tar er tid att läsa mitt brev, och jag hoppas på möjligheten att diskutera hur jag kan vara en tillgång för ert team.
+Jag ser verkligen fram emot att få möjligheten att bidra till era projekt. Tack för att ni tar er tid att läsa mitt brev, och jag hoppas på möjligheten att diskutera vidare hur jag kan vara en tillgång för ert team.
 
 **Vänliga hälsningar,**
 
