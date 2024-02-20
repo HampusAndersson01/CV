@@ -3,7 +3,7 @@ name: Convert MD to PDF
 on:
   push:
     branches:
-      - main
+      - skola
 jobs:
   convert-md-to-pdf:
     runs-on: ubuntu-latest

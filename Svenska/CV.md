@@ -24,13 +24,17 @@ Uddarnas väg 4C, 43294 Varberg
 
 [Arbetslivserfarenhet]
 
+- Elevassistent
+  Vidhögeskolan, Varberg
+  Nov 2023 - Mars 2024
+
 - Praktik på Volvo Powertrain Göteborg
   .NET Systemutveckling
   Nov 2022 - Juni 2023
 
 - Deltidsanställning
   Gekås Ullared AB, Ullared
-  Okt 2017 – Pågående
+  Okt 2017 – Nov 2023
 
 - Sommarjobb
   Metall & Lego AB, Vessigebro
@@ -52,10 +56,8 @@ Innehar B-körkort.
 
 [Referenser]
 
-- **Fredrik Widengren**
-  - _Arbetsgivare:_ Volvo Trucks Technology
-  - _Titel:_ Senior Expert Dev. Engineer
-  - _Telefonnummer:_ 0765536566
-  - _E-post:_ fredrik.widengren@volvo.com
-  - _Roll:_ Handledare för Praktik & Examensarbete
-  - _Praktikperiod:_ 7/11/2022 - 2/6/2023
+- **Sara Ländevik**
+  - _Arbetsgivare:_ Vidhögeskolan
+  - _Titel:_ Fritidspedagog
+  - _Telefonnummer:_ 0735314397
+  - _E-post:_ sara.landevik@varberg.se
