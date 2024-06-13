@@ -26,7 +26,7 @@ Uddarnas väg 4C, 43294 Varberg
 
 - Elevassistent
   Vidhögeskolan, Varberg
-  Nov 2023 - Mars 2024
+  Nov 2023 -
 
 - Praktik på Volvo Powertrain Göteborg
   .NET Systemutveckling
