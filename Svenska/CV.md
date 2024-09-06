@@ -24,17 +24,22 @@ Uddarnas väg 4C, 43294 Varberg
 
 [Arbetslivserfarenhet]
 
+- Elevassistent
+  Vidhögeskolan
+  Nov 2023 - Pågående
+
 - Praktik på Volvo Powertrain Göteborg
   .NET Systemutveckling
   Nov 2022 - Juni 2023
 
 - Deltidsanställning
   Gekås Ullared AB, Ullared
-  Okt 2017 – Pågående
+  Okt 2017 – Nov 2023
 
 - Sommarjobb
   Metall & Lego AB, Vessigebro
   Sommar 2017
+  
 
 [Språkkunskaper]
 
