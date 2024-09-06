@@ -25,7 +25,7 @@ Uddarnas väg 4C, 43294 Varberg
 [Arbetslivserfarenhet]
 
 - Elevassistent
-  Vidhögeskolan
+  Vidhögeskolan, Veddige
   Nov 2023 - Pågående
 
 - Praktik på Volvo Powertrain Göteborg
