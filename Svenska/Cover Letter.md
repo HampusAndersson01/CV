@@ -1,10 +1,10 @@
 # HAMPUS ANDERSSON
 
-**Systemutvecklare**
-[GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampus-a-0957b9140)
+**Systemutvecklare**  
+[GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampus-a-0957b9140)  
 
 Uddarnas väg 4C, 43294 Varberg  
-0763371517 | hampe.01@hotmail.com
+0763371517 | hampe.01@hotmail.com  
 
 ---
 
@@ -12,21 +12,17 @@ Uddarnas väg 4C, 43294 Varberg
 
 **Hej,**
 
-Jag är Hampus Andersson, en nyutbildad systemutvecklare med ett starkt intresse för teknik. Efter att ha avslutat min utbildning inom .NET på Yrkeshögskolan i Borås och praktiserat hos Volvo Powertrain i Göteborg, ser jag nu fram emot att påbörja min karriär inom systemutveckling.
+Jag är Hampus Andersson, en nyutbildad systemutvecklare med ett starkt intresse för teknik. Efter att ha avslutat min utbildning inom .NET på Yrkeshögskolan i Borås och praktiserat hos Volvo Powertrain i Göteborg, ser jag fram emot att bidra med mina kunskaper i rollen som systemutvecklare hos Apotea i Varberg.
 
 ### Bakgrund
 
-Det var under gymnasiet som jag fastnade för programmering och genom åren har jag utforskat olika programmeringsspråk som Python, HTML, CSS och PHP. Utbildningen som systemutvecklare och min tid hos Volvo Powertrain har inte bara gett mig en djupare förståelse för programmering, utan också hur dessa kunskaper kan tillämpas i praktiken.
+Under min utbildning och praktik har jag utvecklat min kompetens inom både frontend och backend. Jag har arbetat med .NET, React och SQL, och är van vid att arbeta i agila team. Min tid hos Volvo Powertrain gav mig erfarenhet av att arbeta med komplexa system och att delta i utvecklingen av en intern applikation som förbättrade verksamhetens effektivitet.
 
-### Praktik på Volvo Powertrain
+### Teknisk Erfarenhet
 
-Min tid inom ett C#-utvecklingsteam på Volvo Powertrain var en intensiv och lärorik period där jag aktivt deltog i utvecklingen av en intern applikation. Att arbeta agilt blev en naturlig del av min vardag, och jag ser fram emot att använda dessa erfarenheter i framtida uppdrag.
+Jag har erfarenhet av C#, Javascript och Typescript samt kunskap inom React, SQL och agil utveckling. Jag ser fram emot att fortsätta utvecklas som systemutvecklare och att använda mina färdigheter för att bidra till Apoteas nya apotek och logistikcenter i Varberg. Min tekniska bakgrund och mitt fokus på praktiska lösningar tror jag kan vara till nytta i er automatiserade verksamhet.
 
-### Tekniska Färdigheter
-
-Jag har en gedigen erfarenhet inom C#, Javascript och Typescript samt kunskap inom React, MySQL och agil utveckling. Att fortsätta utveckla dessa färdigheter och applicera dem på praktiska och effektiva lösningar är ett av mina huvudmål som systemutvecklare.
-
-Jag ser verkligen fram emot att få möjligheten att bidra till era projekt. Tack för att ni tar er tid att läsa mitt brev, och jag hoppas på möjligheten att diskutera vidare hur jag kan vara en tillgång för ert team.
+Jag ser fram emot att få möjligheten att diskutera vidare hur jag kan vara en tillgång för ert team.
 
 **Vänliga hälsningar,**
 
