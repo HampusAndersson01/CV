@@ -30,10 +30,14 @@ jobs:
             pandoc -s "$file" -o "$pdf_file"
           done
 
-      - name: Commit and push changes
+      - name: Commit and push changes if any
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Convert MD to PDF"
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "Convert MD to PDF"
+            git push
+          else
+            echo "No changes to commit"
+          fi
