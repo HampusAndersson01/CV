@@ -3,8 +3,7 @@ name: Convert MD to PDF
 on:
   push:
     branches:
-      - main
-      - skola
+      - '**'
 jobs:
   convert-md-to-pdf:
     runs-on: ubuntu-latest
@@ -22,15 +21,14 @@ jobs:
         run: |
           sudo apt-get install -y texlive-xetex
 
-      - name: Convert Engelska MD to PDF
+      - name: Find and convert updated MD files to PDF
         run: |
-          pandoc -s ./Engelska/Cover\ Letter.md -o ./Engelska/pdf/Cover\ Letter.pdf
-          pandoc -s ./Engelska/CV.md -o ./Engelska/pdf/CV.pdf
-
-      - name: Convert Svenska MD to PDF
-        run: |
-          pandoc -s ./Svenska/Cover\ Letter.md -o ./Svenska/pdf/Cover\ Letter.pdf
-          pandoc -s ./Svenska/CV.md -o ./Svenska/pdf/CV.pdf
+          for file in $(git diff --name-only HEAD^ HEAD | grep '\.md$'); do
+            pdf_file="${file%.md}.pdf"
+            pdf_dir=$(dirname "$pdf_file")
+            mkdir -p "$pdf_dir"
+            pandoc -s "$file" -o "$pdf_file"
+          done
 
       - name: Commit and push changes
         run: |
