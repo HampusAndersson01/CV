@@ -21,9 +21,9 @@ jobs:
         run: |
           sudo apt-get install -y texlive-xetex
 
-      - name: Find and convert updated MD files to PDF
+      - name: Find and convert all MD files to PDF
         run: |
-          for file in $(git diff --name-only HEAD^ HEAD | grep '\.md$'); do
+          find . -name '*.md' | while read file; do
             pdf_file="${file%.md}.pdf"
             pdf_dir=$(dirname "$pdf_file")
             mkdir -p "$pdf_dir"
