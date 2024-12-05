@@ -36,8 +36,6 @@ _Metall & Lego AB, Vessigebro_
 
 - Ansvarade för maskinhantering och tillverkning med fokus på kvalitet och precision.
 
----
-
 <div class="page-break"></div> <!-- Added page break -->
 
 ## UTBILDNING
