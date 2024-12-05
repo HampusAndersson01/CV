@@ -15,11 +15,9 @@ Uddarnas väg 4C, 43294 Varberg
 - Systemutvecklare .NET
   Borås Yrkeshögskola
   Sep 2021 – Juni 2023
-
 - Teknikprogrammet, Information och medieteknik
   Peder Skrivares skola, Varberg
   Aug 2017 – Juni 2020
-
 - Grundskoleutbildning, Ätranskolan F-5, Vesterhavsskolan med fotbollsinriktning 6–9
 
 [Arbetslivserfarenhet]
@@ -27,19 +25,15 @@ Uddarnas väg 4C, 43294 Varberg
 - Elevassistent
   Vidhögeskolan, Veddige
   Nov 2023 - Pågående
-
 - Praktik på Volvo Powertrain Göteborg
   .NET Systemutveckling
   Nov 2022 - Juni 2023
-
 - Deltidsanställning
   Gekås Ullared AB, Ullared
   Okt 2017 – Nov 2023
-
 - Sommarjobb
   Metall & Lego AB, Vessigebro
   Sommar 2017
-  
 
 [Språkkunskaper]
 
