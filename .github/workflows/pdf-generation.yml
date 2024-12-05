@@ -1,43 +1,34 @@
-name: Convert MD to PDF
+name: Generate PDFs for CVs and Cover Letters
 
 on:
   push:
     branches:
-      - '**'
+      - '**' # Trigger on any branch
+  workflow_dispatch: # Allow manual triggering
+
 jobs:
-  convert-md-to-pdf:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      - name: Set up Pandoc
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc
+      # Generate PDFs for Engelska folder
+      - name: Convert Markdown to PDF (Engelska)
+        uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: ./Engelska
+          output_dir: ./Engelska/pdf
 
-      - name: Install pdflatex
-        run: |
-          sudo apt-get install -y texlive-xetex
+      # Generate PDFs for Svenska folder
+      - name: Convert Markdown to PDF (Svenska)
+        uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: ./Svenska
+          output_dir: ./Svenska/pdf
 
-      - name: Find and convert all MD files to PDF
+      - name: Verify Outputs
         run: |
-          find . -name '*.md' | while read file; do
-            pdf_file="${file%.md}.pdf"
-            pdf_dir=$(dirname "$pdf_file")
-            mkdir -p "$pdf_dir"
-            pandoc -s "$file" -o "$pdf_file"
-          done
-
-      - name: Commit and push changes if any
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          if [ -n "$(git status --porcelain)" ]; then
-            git add .
-            git commit -m "Convert MD to PDF"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+          ls -l ./Engelska/pdf
+          ls -l ./Svenska/pdf
