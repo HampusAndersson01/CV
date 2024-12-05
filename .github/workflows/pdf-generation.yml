@@ -18,7 +18,7 @@ jobs:
         run: mkdir -p styles
 
       - name: Copy styling.css
-        run: echo "" > styles/styling.css
+        run: cp .github/workflows/styles/styling.css styles/styling.css
 
       # Generate PDFs for Engelska folder
       - name: Convert Markdown to PDF (Engelska)
