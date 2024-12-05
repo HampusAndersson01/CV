@@ -1,44 +1,43 @@
-name: Generate PDFs for CVs and Cover Letters
+name: Convert Markdown to PDF and Commit
 
 on:
   push:
     branches:
-      - '**' # Trigger on any branch
-  workflow_dispatch: # Allow manual triggering
+      - '**'  # Trigger on any branch
+  workflow_dispatch:
 
 jobs:
-  build:
+  convert-and-commit:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
-
-      # Generate PDFs for Engelska folder
-      - name: Convert Markdown to PDF (Engelska)
-        if: startsWith(github.ref, 'refs/heads/')
-        uses: baileyjm02/markdown-to-pdf@v1
         with:
-          input_dir: Engelska
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # Fetch full history for committing changes
+
+      # Convert Markdown files in Engelska
+      - name: Generate PDFs for Engelska
+        uses: baileyjm02/markdown-to-pdf@v1.2.0
+        with:
+          input_path: Engelska
           output_dir: Engelska/pdf
 
-      # Generate PDFs for Svenska folder
-      - name: Convert Markdown to PDF (Svenska)
-        if: startsWith(github.ref, 'refs/heads/')
-        uses: baileyjm02/markdown-to-pdf@v1
+      # Convert Markdown files in Svenska
+      - name: Generate PDFs for Svenska
+        uses: baileyjm02/markdown-to-pdf@v1.2.0
         with:
-          input_dir: Svenska
+          input_path: Svenska
           output_dir: Svenska/pdf
 
-      - name: Verify Outputs
-        run: |
-          ls -l ./Engelska/pdf
-          ls -l ./Svenska/pdf
-
+      # Commit and Push Changes
       - name: Commit and Push PDFs
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add ./Engelska/pdf ./Svenska/pdf
-          git commit -m 'Add generated PDFs'
-          git push
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add Engelska/pdf/*.pdf Svenska/pdf/*.pdf
+          git commit -m "Generate PDFs for ${GITHUB_REF_NAME} [skip ci]" || echo "No changes to commit"
+          git push origin "${GITHUB_REF_NAME}"
+        env:
+          GITHUB_REF_NAME: ${{ github.ref_name }}
