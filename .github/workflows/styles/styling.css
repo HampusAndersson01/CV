@@ -1,22 +1,128 @@
+/* General Reset */
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  line-height: 1;
-  color: #000000;
+  font-family: "Arial", sans-serif;
+  line-height: 1.4;
+  margin: 20mm;
+  color: #333;
+  background: #fff;
 }
 
-h1,
-h2,
-h3 {
-  color: #2c3e50;
-  font-weight: 600;
+/* Header Styling */
+header {
+  text-align: center;
+  margin-bottom: 20px;
 }
 
+header h1 {
+  font-size: 24pt;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #1a1a1a;
+}
+
+header h2 {
+  font-size: 14pt;
+  margin-bottom: 10px;
+  font-weight: normal;
+  color: #666;
+}
+
+/* Section Styling */
+section {
+  margin-bottom: 20px;
+}
+
+section h2 {
+  font-size: 16pt;
+  margin-bottom: 5px;
+  color: #1a1a1a;
+  border-bottom: 2px solid #1a1a1a;
+  padding-bottom: 3px;
+}
+
+section h3 {
+  font-size: 14pt;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #1a1a1a;
+}
+
+/* Paragraph Styling */
 p {
-  margin: 8px 0;
-  font-size: 14px;
+  margin: 10px 0;
+  font-size: 11pt;
+  text-align: justify;
 }
 
+/* Lists */
+ul {
+  list-style: square;
+  margin-left: 20px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+/* Table Styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 15px 0;
+}
+
+table th,
+table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 10pt;
+  color: #777;
+}
+
+/* Highlights */
+strong {
+  font-weight: bold;
+  color: #000;
+}
+
+em {
+  font-style: italic;
+  color: #555;
+}
+
+/* Page Breaks */
+.page-break {
+  page-break-before: always;
+}
+
+/* Code Styling (Optional for CVs using technical snippets) */
+pre {
+  background: #f8f8f8;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-family: "Courier New", monospace;
+  overflow-x: auto;
+}
+
+/* Links */
 a {
-  color: green;
-  transition: color 0.3s ease;
+  color: #007acc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
