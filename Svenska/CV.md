@@ -38,6 +38,8 @@ _Metall & Lego AB, Vessigebro_
 
 ---
 
+<div class="page-break"></div> <!-- Added page break -->
+
 ## UTBILDNING
 
 **Systemutvecklare .NET**  
