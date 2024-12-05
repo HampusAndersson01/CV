@@ -14,6 +14,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      - name: Ensure styles directory exists
+        run: mkdir -p styles
+
+      - name: Copy styling.css
+        run: echo "" > styles/styling.css
+
       # Generate PDFs for Engelska folder
       - name: Convert Markdown to PDF (Engelska)
         if: startsWith(github.ref, 'refs/heads/')
