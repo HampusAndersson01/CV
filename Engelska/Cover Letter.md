@@ -1,7 +1,7 @@
 # HAMPUS ANDERSSON
 
 **Software Developer**
-[GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampus-a-0957b9140)
+[GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)
 
 Uddarnas väg 4C, 43294 Varberg  
 0763371517 | hampe.01@hotmail.com
