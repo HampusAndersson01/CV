@@ -1,18 +1,16 @@
-# My CV Repository
+# Hampus Andersson's CV and Cover Letters
 
-Welcome to my CV repository on GitHub. Here, you can find the current versions of my Curriculum Vitae (CV) and Cover Letters in both English and Swedish.
+Welcome to my CV repository on GitHub. Here, you can find the current versions of my Curriculum Vitae (CV) and Cover Letters in both Swedish and English.
 
-## CV
+## Swedish
 
-- [English](Engelska/CV.md) ([PDF](Engelska/pdf/CV.pdf))
+- [CV](Svenska/CV.md) ([PDF](Svenska/pdf/CV.pdf))
+- [Cover Letter](Svenska/Cover%20Letter.md) ([PDF](Svenska/pdf/Cover%20Letter.pdf))
 
-- [Swedish](Svenska/CV.md) ([PDF](Svenska/pdf/CV.pdf))
+## English
 
-## Cover Letter
-
-- [English](Engelska/Cover%20Letter.md) ([PDF](Engelska/pdf/Cover%20Letter.pdf))
-
-- [Swedish](Svenska/Cover%20Letter.md) ([PDF](Svenska/pdf/Cover%20Letter.pdf))
+- [CV](Engelska/CV.md) ([PDF](Engelska/pdf/CV.pdf))
+- [Cover Letter](Engelska/Cover%20Letter.md) ([PDF](Engelska/pdf/Cover%20Letter.pdf))
 
 Feel free to explore and download the CV and Cover Letter versions. If you have any questions or would like to get in touch, please don't hesitate to contact me.
 
