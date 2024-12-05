@@ -1,7 +1,7 @@
 /* General Reset */
 body {
   font-family: "Arial", sans-serif;
-  line-height: 1.4;
+  line-height: 1.6;
   margin: 20mm;
   color: #333;
   background: #fff;
@@ -10,34 +10,42 @@ body {
 /* Header Styling */
 header {
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 header h1 {
-  font-size: 24pt;
-  margin-bottom: 5px;
+  font-size: 28pt;
   font-weight: bold;
   color: #1a1a1a;
 }
 
-header h2 {
-  font-size: 14pt;
-  margin-bottom: 10px;
-  font-weight: normal;
+header p {
+  font-size: 12pt;
+  margin: 5px 0;
   color: #666;
+}
+
+header a {
+  color: #007acc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+header a:hover {
+  text-decoration: underline;
 }
 
 /* Section Styling */
 section {
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 
 section h2 {
-  font-size: 16pt;
-  margin-bottom: 5px;
+  font-size: 18pt;
+  margin-bottom: 10px;
   color: #1a1a1a;
   border-bottom: 2px solid #1a1a1a;
-  padding-bottom: 3px;
+  padding-bottom: 5px;
 }
 
 section h3 {
@@ -47,6 +55,16 @@ section h3 {
   color: #1a1a1a;
 }
 
+section ul {
+  margin-left: 20px;
+  list-style-type: disc;
+}
+
+section ul li {
+  font-size: 11pt;
+  margin-bottom: 5px;
+}
+
 /* Paragraph Styling */
 p {
   margin: 10px 0;
@@ -54,17 +72,7 @@ p {
   text-align: justify;
 }
 
-/* Lists */
-ul {
-  list-style: square;
-  margin-left: 20px;
-}
-
-li {
-  margin-bottom: 0;
-}
-
-/* Table Styling */
+/* Table Styling (if applicable) */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -100,7 +108,6 @@ strong {
 em {
   font-style: italic;
   color: #000;
-  font-weight: bold;
 }
 
 /* Page Breaks */
@@ -108,14 +115,41 @@ em {
   page-break-before: always;
 }
 
-/* Code Styling (Optional for CVs using technical snippets) */
-pre {
-  background: #f8f8f8;
-  padding: 10px;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  font-family: "Courier New", monospace;
-  overflow-x: auto;
+/* Specific Styles for CV */
+h1,
+h2,
+h3 {
+  font-family: "Arial", sans-serif;
+}
+
+h1 {
+  font-size: 26pt;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-size: 18pt;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 14pt;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+ul {
+  list-style: square;
+  margin-left: 20px;
+}
+
+li {
+  margin-bottom: 5px;
+  font-size: 11pt;
 }
 
 /* Links */

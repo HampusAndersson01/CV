@@ -1,6 +1,6 @@
 # HAMPUS ANDERSSON
 
-**Systemutvecklare**
+**Systemutvecklare**  
 [GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)
 
 Uddarnas väg 4C, 43294 Varberg  
@@ -8,53 +8,79 @@ Uddarnas väg 4C, 43294 Varberg
 
 ---
 
-## CV
+## ERFARENHET
 
-[Utbildning]
+**Elevassistent & Fritidspedagog**  
+_Vidhögeskolan, Veddige_  
+**Nov 2023 – Pågående**
 
-- Systemutvecklare .NET
-  Borås Yrkeshögskola
-  Sep 2021 – Juni 2023
-- Teknikprogrammet, Information och medieteknik
-  Peder Skrivares skola, Varberg
-  Aug 2017 – Juni 2020
-- Grundskoleutbildning, Ätranskolan F-5, Vesterhavsskolan med fotbollsinriktning 6–9
+- Stödjer elever i deras dagliga lärande och utveckling.
 
-[Arbetslivserfarenhet]
+**Systemutvecklingspraktikant**  
+_Volvo Powertrain, Göteborg_  
+**Nov 2022 – Jun 2023**
 
-- Elevassistent
-  Vidhögeskolan, Veddige
-  Nov 2023 - Pågående
-- Praktik på Volvo Powertrain Göteborg
-  .NET Systemutveckling
-  Nov 2022 - Juni 2023
-- Deltidsanställning
-  Gekås Ullared AB, Ullared
-  Okt 2017 – Nov 2023
-- Sommarjobb
-  Metall & Lego AB, Vessigebro
-  Sommar 2017
+- Utvecklade ett omfattande API och webbgränssnitt för att hantera parametrar relaterade till olika riggfamiljer.
+- Arbetade med databashantering, systemintegration och gränssnittsutveckling.
+- Samarbetade med seniora utvecklare i en agil miljö och levererade lösningar som förbättrade interna arbetsflöden.
 
-[Språkkunskaper]
+**Deltidsanställd**  
+_Gekås Ullared AB, Ullared_  
+**Okt 2017 – Nov 2023**
 
-- Svenska, modersmål
-- Engelska, flytande
+- Kundservice och lagerhantering i en högintensiv miljö med stort fokus på noggrannhet och effektivitet.
 
-[Datorkunskaper]
+**Sommarjobb**  
+_Metall & Lego AB, Vessigebro_  
+**Sommar 2017**
 
-- Programvana: Word, Excel, Cad
-- Programmeringsspråk: Python, C#, JavaScript, TypeScript
-- Teknologier: React.JS, HTML, PHP, CSS, MySQL
+- Ansvarade för maskinhantering och tillverkning med fokus på kvalitet och precision.
 
-[Körkort]
-Innehar B-körkort.
+---
 
-[Referenser]
+## UTBILDNING
 
-- **Fredrik Widengren**
-  - _Arbetsgivare:_ Volvo Trucks Technology
-  - _Titel:_ Senior Expert Dev. Engineer
-  - _Telefonnummer:_ 0765536566
-  - _E-post:_ fredrik.widengren@volvo.com
-  - _Roll:_ Handledare för Praktik & Examensarbete
-  - _Praktikperiod:_ 7/11/2022 - 2/6/2023
+**Systemutvecklare .NET**  
+_Yrkeshögskolan i Borås_  
+**Sep 2021 – Jun 2023**
+
+- Fördjupade kunskaper inom .NET, databaser, webbutveckling och C#.
+- Examensarbete: "Utveckling av ett API och webbgränssnitt för hantering av parametrar för olika riggfamiljer."
+
+**Teknikprogrammet, Information och medieteknik**  
+_Peder Skrivares skola, Varberg_  
+**Aug 2017 – Jun 2020**
+
+---
+
+## TEKNISK KOMPETENS
+
+**Programmering**
+
+- C#, Python, JavaScript, TypeScript, HTML/CSS
+
+**Frameworks & Verktyg**
+
+- React, .NET, MySQL, Firebase, Git
+
+---
+
+## SPRÅKKUNSKAPER
+
+- Svenska: Modersmål
+- Engelska: Flytande
+
+---
+
+## KÖRKORT
+
+- Innehar B-körkort
+
+---
+
+## REFERENSER
+
+**Fredrik Widengren**  
+_Senior Expert Development Engineer, Volvo Trucks Technology_  
+076-553 65 66 | fredrik.widengren@volvo.com  
+Handledare under min praktik på Volvo Powertrain.
