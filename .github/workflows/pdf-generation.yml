@@ -16,6 +16,7 @@ jobs:
 
       # Generate PDFs for Engelska folder
       - name: Convert Markdown to PDF (Engelska)
+        if: startsWith(github.ref, 'refs/heads/')
         uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: ./Engelska
@@ -23,6 +24,7 @@ jobs:
 
       # Generate PDFs for Svenska folder
       - name: Convert Markdown to PDF (Svenska)
+        if: startsWith(github.ref, 'refs/heads/')
         uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: ./Svenska
