@@ -20,7 +20,7 @@ jobs:
         uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: Engelska
-          output_dir: Engelska/pdf
+          output_dir: Engelska/pdf/
 
       # Generate PDFs for Svenska folder
       - name: Convert Markdown to PDF (Svenska)
@@ -28,7 +28,7 @@ jobs:
         uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: Svenska
-          output_dir: Svenska/pdf
+          output_dir: Svenska/pdf/
 
       - name: Verify Outputs
         run: |
