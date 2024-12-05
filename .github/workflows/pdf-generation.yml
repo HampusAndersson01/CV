@@ -28,7 +28,6 @@ jobs:
           input_dir: Engelska
           output_dir: Engelska/pdf/
           theme: styles/styling.css
-          build_html: false
 
       # Generate PDFs for Svenska folder
       - name: Convert Markdown to PDF (Svenska)
@@ -38,7 +37,6 @@ jobs:
           input_dir: Svenska
           output_dir: Svenska/pdf/
           theme: styles/styling.css
-          build_html: false
 
       - name: Verify Outputs
         run: |
