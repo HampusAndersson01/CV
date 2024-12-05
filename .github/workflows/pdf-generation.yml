@@ -3,7 +3,7 @@ name: Generate PDFs for CVs and Cover Letters
 on:
   push:
     branches:
-      - '**' # Trigger on any branch
+      - "**" # Trigger on any branch
   workflow_dispatch: # Allow manual triggering
 
 jobs:
@@ -21,6 +21,8 @@ jobs:
         with:
           input_dir: Engelska
           output_dir: Engelska/pdf/
+          theme: styles/custom-theme.css
+          build_html: false
 
       # Generate PDFs for Svenska folder
       - name: Convert Markdown to PDF (Svenska)
@@ -29,6 +31,8 @@ jobs:
         with:
           input_dir: Svenska
           output_dir: Svenska/pdf/
+          theme: styles/custom-theme.css
+          build_html: false
 
       - name: Verify Outputs
         run: |
