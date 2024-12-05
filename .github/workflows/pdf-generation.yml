@@ -22,21 +22,21 @@ jobs:
         uses: baileyjm02/markdown-to-pdf@v1.2.0
         with:
           input_path: Engelska
-          output_dir: Engelska/pdf
+          output_dir: EngelskaPDF
 
       # Convert Markdown files in Svenska
       - name: Generate PDFs for Svenska
         uses: baileyjm02/markdown-to-pdf@v1.2.0
         with:
           input_path: Svenska
-          output_dir: Svenska/pdf
+          output_dir: SvenskaPDF
 
       # Commit and Push Changes
       - name: Commit and Push PDFs
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add Engelska/pdf/*.pdf Engelska/pdf/*.html Svenska/pdf/*.pdf Svenska/pdf/*.html
+          git add EngelskaPDF/*.pdf EngelskaPDF/*.html SvenskaPDF/*.pdf SvenskaPDF/*.html
           git commit -m "Generate PDFs for ${GITHUB_REF_NAME} [skip ci]" || echo "No changes to commit"
           git push origin "${GITHUB_REF_NAME}"
         env:
