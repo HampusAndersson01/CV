@@ -1,33 +1,30 @@
 # HAMPUS ANDERSSON
 
-**Systemutvecklare**
-[GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)
+**Systemutvecklare**  
+[GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)  
 
 Uddarnas väg 4C, 43294 Varberg  
-0763371517 | hampe.01@hotmail.com
+0763371517 | hampe.01@hotmail.com  
 
 ---
 
-## Personligt Brev
+## Personligt Brev  
 
 **Hej,**
 
-Jag är Hampus Andersson, en nyutbildad systemutvecklare med ett starkt intresse för teknik. Efter att ha avslutat min utbildning inom .NET på Yrkeshögskolan i Borås och praktiserat hos Volvo Powertrain i Göteborg, ser jag nu fram emot att påbörja min karriär inom systemutveckling.
+Jag heter Hampus Andersson och är en nyutbildad systemutvecklare med ett starkt intresse för teknik och problemlösning. Efter att ha avslutat min utbildning inom .NET på Yrkeshögskolan i Borås och praktiserat hos Volvo Powertrain i Göteborg, är jag nu redo att ta mig an nya utmaningar inom IT och bidra med mina kunskaper och min drivkraft till ert företag.  
 
-### Bakgrund
+### Bakgrund  
 
-Det var under gymnasiet som jag fastnade för programmering och genom åren har jag utforskat olika programmeringsspråk som Python, HTML, CSS och PHP. Utbildningen som systemutvecklare och min tid hos Volvo Powertrain har inte bara gett mig en djupare förståelse för programmering, utan också hur dessa kunskaper kan tillämpas i praktiken.
+Under min praktik hos Volvo Powertrain arbetade jag i ett C#-utvecklingsteam där jag var involverad i utvecklingen av en intern applikation. Där lärde jag mig värdet av agila arbetssätt och hur viktigt samarbete är för att leverera lösningar av hög kvalitet.  
 
-### Praktik på Volvo Powertrain
+Utöver detta har jag under flera år arbetat med personliga projekt som har utvecklat mina färdigheter inom programmering och problemlösning. Jag har till exempel byggt applikationer som integrerar API:er, automatiserar processer och skapar användarvänliga webbapplikationer. Dessa erfarenheter har gett mig en helhetsförståelse för utvecklingsprocessen, från kravanalys till implementering och testning.  
 
-Min tid inom ett C#-utvecklingsteam på Volvo Powertrain var en intensiv och lärorik period där jag aktivt deltog i utvecklingen av en intern applikation. Att arbeta agilt blev en naturlig del av min vardag, och jag ser fram emot att använda dessa erfarenheter i framtida uppdrag.
+### Tekniska Färdigheter  
 
-### Tekniska Färdigheter
+Jag har erfarenhet av C#, JavaScript, TypeScript och React, samt kunskaper i databashantering med MySQL och versionshantering med Git. Min tekniska kompetens kombineras med en vilja att ständigt lära mig nya teknologier och hitta innovativa lösningar på komplexa problem.  
 
-Jag har en gedigen erfarenhet inom C#, Javascript och Typescript samt kunskap inom React, MySQL och agil utveckling. Att fortsätta utveckla dessa färdigheter och applicera dem på praktiska och effektiva lösningar är ett av mina huvudmål som systemutvecklare.
+Jag ser fram emot att få möjligheten att bidra till ert team och använda mina kunskaper för att skapa lösningar som gör skillnad. Tack för att ni tar er tid att läsa mitt brev, och jag hoppas få chansen att diskutera hur jag kan bidra till era projekt.  
 
-Jag ser verkligen fram emot att få möjligheten att bidra till era projekt. Tack för att ni tar er tid att läsa mitt brev, och jag hoppas på möjligheten att diskutera vidare hur jag kan vara en tillgång för ert team.
-
-**Vänliga hälsningar,**
-
-Hampus Andersson
+**Vänliga hälsningar,**  
+Hampus Andersson  
