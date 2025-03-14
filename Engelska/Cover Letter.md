@@ -33,5 +33,3 @@ In my spare time, I love tinkering with tech projects at home. I enjoy exploring
 I'm the kind of person who enjoys diving into new challenges and figuring things out. I work well in teams and am comfortable asking questions when needed, but I'm also good at working independently when that's what's required.
 
 I'm looking for an environment where I can continue developing my technical skills while contributing to meaningful projects. I'm adaptable and eager to learn whatever technologies are needed for the job.
-
-I'd love the chance to talk more about how my skills could be valuable to your team. Feel free to reach out if you think we might be a good match!
