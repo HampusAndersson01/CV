@@ -35,7 +35,3 @@ I'm the kind of person who enjoys diving into new challenges and figuring things
 I'm looking for an environment where I can continue developing my technical skills while contributing to meaningful projects. I'm adaptable and eager to learn whatever technologies are needed for the job.
 
 I'd love the chance to talk more about how my skills could be valuable to your team. Feel free to reach out if you think we might be a good match!
-
-Thanks for reading,
-
-Hampus Andersson
