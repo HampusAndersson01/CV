@@ -1,62 +1,86 @@
 # HAMPUS ANDERSSON
 
-**Software Developer**
+**Software Developer**  
 [GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)
 
-Uddarnas väg 4C, 43294 Varberg
+Uddarnas väg 4C, 43294 Varberg  
 0763371517 | hampe.01@hotmail.com
 
 ---
 
-## CV
+## EXPERIENCE
 
-[Education]
+**Teacher Assistant & After-school Educator**  
+_Vidhögeskolan, Veddige_  
+**Nov 2023 – Ongoing**
 
-- Software Developer .NET
-  Borås Yrkeshögskola
-  Sep 2021 – June 2023
+- Supporting students in their daily learning and development.
 
-- Technical Program, Information and Media Technology
-  Peder Skrivares Skola, Varberg
-  Aug 2017 – June 2020
+**System Development Intern**  
+_Volvo Powertrain, Gothenburg_  
+**Nov 2022 – Jun 2023**
 
-- Primary School Education, Ätranskolan F-5, Vesterhavsskolan with a football focus 6–9
+- Independently developed a comprehensive API and web interface for managing parameters related to different rig families as my graduation project.
+- Designed and implemented database solutions, system integrations, and user interfaces from the ground up.
+- Collaborated with senior developers in an agile environment to understand requirements and delivered solutions that improved internal workflows.
 
-[Work Experience]
+**Part-time Employee**  
+_Gekås Ullared AB, Ullared_  
+**Oct 2017 – Nov 2023**
 
-- Internship at Volvo Powertrain Gothenburg
-  .NET System Development
-  Nov 2022 - June 2023
+- Customer service and warehouse management in a high-intensity environment with a strong focus on accuracy and efficiency.
 
-- Part-time Employment
-  Gekås Ullared AB, Ullared
-  Oct 2017 – Ongoing
+**Summer Job**  
+_Metall & Lego AB, Vessigebro_  
+**Summer 2017**
 
-- Summer Job
-  Metall & Lego AB, Vessigebro
-  Summer 2017
+- Responsible for machine handling and manufacturing with a focus on quality and precision.
 
-[Language Skills]
+<div class="page-break"></div> <!-- Added page break -->
 
-- Swedish, native
-- English, fluent
+## EDUCATION
 
-[Computer Skills]
+**Software Developer .NET**  
+_Borås University of Applied Sciences_  
+**Sep 2021 – Jun 2023**
 
-- Software Proficiency: Word, Excel, CAD
-- Programming Languages: Python, C#, JavaScript, TypeScript
-- Technologies: React.JS, HTML, PHP, CSS, MySQL
+- Advanced knowledge in .NET, databases, web development, and C#.
+- Thesis project: "Independent development of an API and web interface for managing parameters for different rig families at Volvo Powertrain."
 
-[Driver's License]
+**Technical Program, Information and Media Technology**  
+_Peder Skrivares School, Varberg_  
+**Aug 2017 – Jun 2020**
 
-Possesses a B driver's license.
+---
 
-[References]
+## TECHNICAL SKILLS
 
-- **Fredrik Widengren**
-  - _Employer:_ Volvo Trucks Technology
-  - _Title:_ Senior Expert Dev. Engineer
-  - _Phone:_ 0765536566
-  - _Email:_ fredrik.widengren@volvo.com
-  - _Role:_ Supervisor for Internship & Thesis Work
-  - _Internship Period:_ 7/11/2022 - 2/6/2023
+**Programming**
+
+- C#, Python, JavaScript, TypeScript, HTML/CSS
+
+**Frameworks & Tools**
+
+- React, .NET, MySQL, Firebase, Git
+
+---
+
+## LANGUAGE SKILLS
+
+- Swedish: Native
+- English: Fluent
+
+---
+
+## DRIVER'S LICENSE
+
+- Possesses a B driver's license
+
+---
+
+## REFERENCES
+
+**Fredrik Widengren**  
+_Senior Expert Development Engineer, Volvo Trucks Technology_  
+076-553 65 66 | fredrik.widengren@volvo.com  
+Supervisor during my internship at Volvo Powertrain.

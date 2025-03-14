@@ -1,6 +1,6 @@
 # HAMPUS ANDERSSON
 
-**Software Developer**
+**Software Developer**  
 [GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)
 
 Uddarnas väg 4C, 43294 Varberg  
@@ -10,24 +10,32 @@ Uddarnas väg 4C, 43294 Varberg
 
 ## Cover Letter
 
-**Hello,**
+Hi,
 
-I'm Hampus Andersson, a recent graduate in software development with a keen interest in technology. After completing my education in .NET at Borås Vocational University and interning at Volvo Powertrain in Gothenburg, I am eager to embark on my career in software development.
+I'm Hampus, a software developer who graduated in 2023 with a focus on .NET development. I'm reaching out because I'm excited about finding a role where I can put my tech skills to good use and continue growing as an IT professional.
 
-### Background
+### What I bring to the table
 
-My fascination with technology began during high school, where I explored various programming languages such as Python, HTML, CSS, and PHP. My education as a software developer and my time at Volvo Powertrain have not only provided me with a solid foundation but also practical insights into applying my skills.
+During my studies at Borås University, I got really into C# and the whole .NET ecosystem. I've also picked up quite a bit of experience with:
 
-### Internship at Volvo Powertrain
+- Building web applications using JavaScript, TypeScript and React
+- Working with databases (both SQL and NoSQL)
+- Collaborating with others using Git and agile methods
 
-My time within a C# development team at Volvo Powertrain was an intense and educational period where I actively participated in the development of an internal application. Working in an agile environment became a natural part of my daily routine, and I look forward to applying these experiences in future assignments.
+My internship at Volvo Powertrain gave me real-world experience that I'm proud of. As my graduation project, I independently developed an API and web interface that made it easier to manage parameters across different systems. Working autonomously while consulting with senior developers, I was responsible for the entire development process from design to implementation. It was challenging work, but I enjoyed seeing how my code could solve actual business problems and create value for the organization.
 
-### Technical Skills
+### Beyond work and school
 
-I have a strong background in C#, Javascript, and Typescript, along with knowledge in React, MySQL, and agile development. Continuing to develop these skills and applying them to practical and efficient solutions is one of my main goals as a software developer.
+In my spare time, I love tinkering with tech projects at home. I enjoy exploring new technologies, automating everyday tasks, and building small applications that solve practical problems. Working on these personal projects has helped me develop skills in troubleshooting, finding creative solutions, and continuously learning new technologies on my own.
 
-I am genuinely excited about the opportunity to contribute to your projects and further develop in a dynamic work environment. Thank you for taking the time to read my letter, and I hope for the opportunity to discuss how I can be an asset to your team.
+### How I work
 
-**Kind regards,**
+I'm the kind of person who enjoys diving into new challenges and figuring things out. I work well in teams and am comfortable asking questions when needed, but I'm also good at working independently when that's what's required.
+
+I'm looking for an environment where I can continue developing my technical skills while contributing to meaningful projects. I'm adaptable and eager to learn whatever technologies are needed for the job.
+
+I'd love the chance to talk more about how my skills could be valuable to your team. Feel free to reach out if you think we might be a good match!
+
+Thanks for reading,
 
 Hampus Andersson
