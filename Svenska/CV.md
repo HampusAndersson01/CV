@@ -1,86 +1,86 @@
-# HAMPUS ANDERSSON
+# Hampus Andersson
 
 **Systemutvecklare**  
-[GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)
-
+[GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)  
 Uddarnas väg 4C, 43294 Varberg  
-0763371517 | hampe.01@hotmail.com
+076-337 15 17 | hampe.01@hotmail.com
+
+---
+
+## PROFESSIONELL PROFIL
+
+Ambitiös och lösningsorienterad systemutvecklare med praktisk erfarenhet inom .NET, API-utveckling och webbteknologier. Van att arbeta i agila team med fokus på att skapa effektiva, användarvänliga lösningar. Kommunikativ, ansvarstagande och med en stark vilja att fortsätta utvecklas i rollen som utvecklare.
 
 ---
 
 ## ERFARENHET
 
 **Elevassistent & Fritidspedagog**  
-_Vidhögeskolan, Veddige_  
-**Nov 2023 – Pågående**
-
-- Stödjer elever i deras dagliga lärande och utveckling.
+*Vidhögeskolan, Veddige*  
+**Nov 2023 – Pågående**  
+- Ger stöd till elever i deras dagliga lärande och utveckling, samt medverkar till en trygg och stimulerande skolmiljö.
 
 **Systemutvecklingspraktikant**  
-_Volvo Powertrain, Göteborg_  
-**Nov 2022 – Jun 2023**
+*Volvo Powertrain, Göteborg*  
+**Nov 2022 – Jun 2023**  
+- Utvecklade ett API och ett tillhörande webbgränssnitt för hantering av parametrar kopplade till olika riggfamiljer.  
+- Arbetade med databashantering, systemintegration och frontend/backend-utveckling.  
+- Samarbetade med seniora utvecklare i en agil miljö och levererade funktionella lösningar som effektiviserade interna processer.
 
-- Utvecklade ett omfattande API och webbgränssnitt för att hantera parametrar relaterade till olika riggfamiljer.
-- Arbetade med databashantering, systemintegration och gränssnittsutveckling.
-- Samarbetade med seniora utvecklare i en agil miljö och levererade lösningar som förbättrade interna arbetsflöden.
+**Butiks- & Lagerpersonal (Deltid)**  
+*Gekås Ullared AB, Ullared*  
+**Okt 2017 – Nov 2023**  
+- Hanterade kundservice, varuplock och lagerarbete i en snabb och serviceinriktad miljö.  
+- Utvecklade förmåga att arbeta strukturerat och effektivt under högt tryck.
 
-**Deltidsanställd**  
-_Gekås Ullared AB, Ullared_  
-**Okt 2017 – Nov 2023**
+**Sommarjobb – Maskinhantering & Produktion**  
+*Metall & Lego AB, Vessigebro*  
+**Sommar 2017**  
+- Ansvarade för maskinell tillverkning med fokus på kvalitet och precision.
 
-- Kundservice och lagerhantering i en högintensiv miljö med stort fokus på noggrannhet och effektivitet.
-
-**Sommarjobb**  
-_Metall & Lego AB, Vessigebro_  
-**Sommar 2017**
-
-- Ansvarade för maskinhantering och tillverkning med fokus på kvalitet och precision.
-
-<div class="page-break"></div> <!-- Added page break -->
+---
 
 ## UTBILDNING
 
 **Systemutvecklare .NET**  
-_Yrkeshögskolan i Borås_  
-**Sep 2021 – Jun 2023**
+*Yrkeshögskolan i Borås*  
+**Sep 2021 – Jun 2023**  
+- Fokus på .NET-utveckling, databaser, webbteknologier och programmering i C#.  
+- Examensarbete: *"Utveckling av ett API och webbgränssnitt för hantering av parametrar för olika riggfamiljer."*
 
-- Fördjupade kunskaper inom .NET, databaser, webbutveckling och C#.
-- Examensarbete: "Utveckling av ett API och webbgränssnitt för hantering av parametrar för olika riggfamiljer."
-
-**Teknikprogrammet, Information och medieteknik**  
-_Peder Skrivares skola, Varberg_  
+**Teknikprogrammet – Information och medieteknik**  
+*Peder Skrivares skola, Varberg*  
 **Aug 2017 – Jun 2020**
 
 ---
 
 ## TEKNISK KOMPETENS
 
-**Programmering**
+**Programmeringsspråk:**  
+C#, Python, JavaScript, TypeScript, HTML, CSS
 
-- C#, Python, JavaScript, TypeScript, HTML/CSS
-
-**Frameworks & Verktyg**
-
-- React, .NET, MySQL, Firebase, Git
+**Ramverk & Verktyg:**  
+.NET, React, MySQL, Firebase, Git
 
 ---
 
 ## SPRÅKKUNSKAPER
 
-- Svenska: Modersmål
-- Engelska: Flytande
+- **Svenska:** Modersmål  
+- **Engelska:** Flytande
 
 ---
 
-## KÖRKORT
+## ÖVRIGT
 
-- Innehar B-körkort
+**Körkort:** B-behörighet
 
 ---
 
 ## REFERENSER
 
 **Fredrik Widengren**  
-_Senior Expert Development Engineer, Volvo Trucks Technology_  
-076-553 65 66 | fredrik.widengren@volvo.com  
-Handledare under min praktik på Volvo Powertrain.
+Senior Expert Development Engineer, Volvo Trucks Technology  
+Telefon: 076-553 65 66  
+E-post: fredrik.widengren@volvo.com  
+(Handledare under praktikperioden på Volvo Powertrain)
