@@ -1,86 +1,71 @@
 # Hampus Andersson
 
-**Systemutvecklare**  
-[GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)  
+**Lagermedarbetare**  
 Uddarnas väg 4C, 43294 Varberg  
 076-337 15 17 | hampe.01@hotmail.com
 
 ---
 
-## PROFESSIONELL PROFIL
-
-Ambitiös och lösningsorienterad systemutvecklare med praktisk erfarenhet inom .NET, API-utveckling och webbteknologier. Van att arbeta i agila team med fokus på att skapa effektiva, användarvänliga lösningar. Kommunikativ, ansvarstagande och med en stark vilja att fortsätta utvecklas i rollen som utvecklare.
-
----
-
 ## ERFARENHET
 
+**Butiks- & Lagerpersonal**  
+_Gekås Ullared AB, Ullared_  
+**Okt 2017 – Nov 2023**
+
+- Ansvarade för varuplock, packning och lagerhantering i snabbt tempo
+- Hanterade returhantering och sortering av varor enligt gällande rutiner
+- Bidrog till effektiv kundservice och säkerställde hög kvalitet i arbetsutförandet
+- Utvecklade stark förmåga att arbeta strukturerat under högt tryck
+- Samarbetade effektivt i team för att upprätthålla smidigt flöde i verksamheten
+
 **Elevassistent & Fritidspedagog**  
-*Vidhögeskolan, Veddige*  
-**Nov 2023 – Pågående**  
-- Ger stöd till elever i deras dagliga lärande och utveckling, samt medverkar till en trygg och stimulerande skolmiljö.
+_Vidhögeskolan, Veddige_  
+**Nov 2023 – Pågående**
 
-**Systemutvecklingspraktikant**  
-*Volvo Powertrain, Göteborg*  
-**Nov 2022 – Jun 2023**  
-- Utvecklade ett API och ett tillhörande webbgränssnitt för hantering av parametrar kopplade till olika riggfamiljer.  
-- Arbetade med databashantering, systemintegration och frontend/backend-utveckling.  
-- Samarbetade med seniora utvecklare i en agil miljö och levererade funktionella lösningar som effektiviserade interna processer.
+- Ger stöd till elever och bidrar till en trygg och strukturerad miljö
+- Utvecklat ansvarstagande och förmåga att hantera varierande arbetsuppgifter
 
-**Butiks- & Lagerpersonal (Deltid)**  
-*Gekås Ullared AB, Ullared*  
-**Okt 2017 – Nov 2023**  
-- Hanterade kundservice, varuplock och lagerarbete i en snabb och serviceinriktad miljö.  
-- Utvecklade förmåga att arbeta strukturerat och effektivt under högt tryck.
+**Praktikant Systemutveckling**  
+_Volvo Powertrain, Göteborg_  
+**Nov 2022 – Jun 2023**
+
+- Samarbetade i team och utvecklade stark problemlösningsförmåga
+- Arbetade strukturerat med dokumentation och kvalitetssäkring
 
 **Sommarjobb – Maskinhantering & Produktion**  
-*Metall & Lego AB, Vessigebro*  
-**Sommar 2017**  
-- Ansvarade för maskinell tillverkning med fokus på kvalitet och precision.
+_Metall & Lego AB, Vessigebro_  
+**Sommar 2017**
+
+- Ansvarade för maskinell tillverkning med fokus på kvalitet och precision
+- Utvecklade förståelse för säkerhetsrutiner och noggrannhet i arbetet
 
 ---
 
 ## UTBILDNING
 
-**Systemutvecklare .NET**  
-*Yrkeshögskolan i Borås*  
-**Sep 2021 – Jun 2023**  
-- Fokus på .NET-utveckling, databaser, webbteknologier och programmering i C#.  
-- Examensarbete: *"Utveckling av ett API och webbgränssnitt för hantering av parametrar för olika riggfamiljer."*
-
 **Teknikprogrammet – Information och medieteknik**  
-*Peder Skrivares skola, Varberg*  
+_Peder Skrivares skola, Varberg_  
 **Aug 2017 – Jun 2020**
 
----
-
-## TEKNISK KOMPETENS
-
-**Programmeringsspråk:**  
-C#, Python, JavaScript, TypeScript, HTML, CSS
-
-**Ramverk & Verktyg:**  
-.NET, React, MySQL, Firebase, Git
+- Bred teknisk utbildning med fokus på problemlösning och strukturerat arbetssätt
 
 ---
 
 ## SPRÅKKUNSKAPER
 
-- **Svenska:** Modersmål  
-- **Engelska:** Flytande
+- **Svenska:** Flytande i tal och skrift
+- **Engelska:** Goda kunskaper
 
 ---
 
 ## ÖVRIGT
 
-**Körkort:** B-behörighet
+**Körkort:** B-behörighet  
+**Arbetstider:** Flexibel för dag- och kvällsskift
 
 ---
 
 ## REFERENSER
 
-**Fredrik Widengren**  
-Senior Expert Development Engineer, Volvo Trucks Technology  
-Telefon: 076-553 65 66  
-E-post: fredrik.widengren@volvo.com  
+**Lämnas på begäran**
 (Handledare under praktikperioden på Volvo Powertrain)

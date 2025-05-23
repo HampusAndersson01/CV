@@ -1,82 +1,106 @@
 # HAMPUS ANDERSSON
 
-**Software Developer**  
-[GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)
-
+**Warehouse Worker**  
 Uddarnas väg 4C, 43294 Varberg  
 0763371517 | hampe.01@hotmail.com
 
 ---
 
+## PROFESSIONAL PROFILE
+
+Reliable and responsible warehouse worker with extensive experience in physical work and high-tempo environments. Strong work ethic and excellent teamwork skills with focus on efficiency and quality. Well-organized and detail-oriented with ability to contribute to smooth warehouse operations. Values teamwork and takes responsibility for ensuring workplace safety and proper handling of goods.
+
+---
+
 ## EXPERIENCE
+
+**Retail & Warehouse Staff**  
+_Gekås Ullared AB, Ullared_  
+**Oct 2017 – Nov 2023**
+
+- Responsible for order picking, packing, and warehouse management in fast-paced environment
+- Handled returns processing and sorting of goods according to established procedures
+- Contributed to efficient customer service while ensuring high quality in work performance
+- Developed strong ability to work systematically under high pressure
+- Collaborated effectively in teams to maintain smooth operational flow
 
 **Teacher Assistant & After-school Educator**  
 _Vidhögeskolan, Veddige_  
 **Nov 2023 – Ongoing**
 
-- Supporting students in their daily learning and development.
+- Providing support to students and contributing to a safe and structured environment
+- Developed responsibility and ability to handle various work tasks
 
 **System Development Intern**  
 _Volvo Powertrain, Gothenburg_  
 **Nov 2022 – Jun 2023**
 
-- Independently developed a comprehensive API and web interface for managing parameters related to different rig families as my graduation project.
-- Designed and implemented database solutions, system integrations, and user interfaces from the ground up.
-- Collaborated with senior developers in an agile environment to understand requirements and delivered solutions that improved internal workflows.
+- Collaborated in teams and developed strong problem-solving abilities
+- Worked systematically with documentation and quality assurance
 
-**Part-time Employee**  
-_Gekås Ullared AB, Ullared_  
-**Oct 2017 – Nov 2023**
-
-- Customer service and warehouse management in a high-intensity environment with a strong focus on accuracy and efficiency.
-
-**Summer Job**  
+**Summer Job – Machine Operation & Production**  
 _Metall & Lego AB, Vessigebro_  
 **Summer 2017**
 
-- Responsible for machine handling and manufacturing with a focus on quality and precision.
-
-<div class="page-break"></div> <!-- Added page break -->
+- Responsible for machine manufacturing with focus on quality and precision
+- Developed understanding of safety procedures and precision in work
 
 ## EDUCATION
-
-**Software Developer .NET**  
-_Borås University of Applied Sciences_  
-**Sep 2021 – Jun 2023**
-
-- Advanced knowledge in .NET, databases, web development, and C#.
-- Thesis project: "Independent development of an API and web interface for managing parameters for different rig families at Volvo Powertrain."
 
 **Technical Program, Information and Media Technology**  
 _Peder Skrivares School, Varberg_  
 **Aug 2017 – Jun 2020**
 
+- Broad technical education with focus on problem-solving and systematic work approach
+
+**Software Developer .NET**  
+_Borås University of Applied Sciences_  
+**Sep 2021 – Jun 2023**
+
+- Developed analytical skills and systematic work approach
+- Strengthened teamwork abilities through collaborative projects
+
 ---
 
-## TECHNICAL SKILLS
+## SKILLS & COMPETENCIES
 
-**Programming**
+**Warehouse & Logistics Knowledge:**
 
-- C#, Python, JavaScript, TypeScript, HTML/CSS
+- Order picking and packing
+- Returns handling and sorting
+- Incoming and outgoing goods management
+- Quality control and attention to detail
 
-**Frameworks & Tools**
+**Personal Qualities:**
 
-- React, .NET, MySQL, Firebase, Git
+- Strong physical fitness for high-tempo work
+- Excellent teamwork and collaboration skills
+- Responsible and reliable
+- Flexible regarding work hours (day and evening shifts)
+- Detail-oriented and systematic in work execution
+
+**Forklift License:** Planning to obtain forklift certification upon employment
 
 ---
 
 ## LANGUAGE SKILLS
 
-- Swedish: Native
-- English: Fluent
+- **Swedish:** Fluent in speech and writing
+- **English:** Good knowledge
 
 ---
 
-## DRIVER'S LICENSE
+## OTHER
 
-- Possesses a B driver's license
+**Driver's License:** Category B  
+**Physical Fitness:** Excellent condition for physically demanding work  
+**Work Schedule:** Flexible for day and evening shifts
 
 ---
+
+## REFERENCES
+
+**Available upon request**
 
 ## REFERENCES
 

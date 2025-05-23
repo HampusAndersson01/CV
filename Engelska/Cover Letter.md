@@ -1,8 +1,6 @@
 # HAMPUS ANDERSSON
 
-**Software Developer**  
-[GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)
-
+**Warehouse Worker**  
 Uddarnas väg 4C, 43294 Varberg  
 0763371517 | hampe.01@hotmail.com
 
@@ -10,25 +8,31 @@ Uddarnas väg 4C, 43294 Varberg
 
 ## Cover Letter
 
-Hi,
+**To AB Effektiv, Västerås**
 
-I'm Hampus, a software developer who graduated in 2023 with a focus on .NET development. I'm reaching out because I'm excited about finding a role where I can put my tech skills to good use and continue growing as an IT professional.
+I am writing to express my strong interest in the warehouse worker position in Västerås. My name is Hampus Andersson, and I am a reliable and responsible individual with extensive experience in physical work and warehouse operations. Having worked several years in retail and warehouse environments, I feel well-prepared to contribute to an efficient and safe workflow in your operation.
 
-### What I bring to the table
+### Relevant Experience and Work Approach
 
-During my studies at Borås University, I got really into C# and the whole .NET ecosystem. I've also picked up quite a bit of experience with:
+During my time at Gekås Ullared AB (2017-2023), I worked extensively with order picking, packing, and warehouse management in a high-tempo environment with large volumes. I have daily experience handling incoming and outgoing goods, returns processing, and ensuring all work methods follow company quality and safety procedures. This has given me a deep understanding of the importance of accuracy, efficiency, and teamwork within warehouse operations.
 
-- Building web applications using JavaScript, TypeScript and React
-- Working with databases (both SQL and NoSQL)
-- Collaborating with others using Git and agile methods
+### Flexibility and Responsibility
 
-My internship at Volvo Powertrain gave me real-world experience that I'm proud of. As my graduation project, I independently developed an API and web interface that made it easier to manage parameters across different systems. Working autonomously while consulting with senior developers, I was responsible for the entire development process from design to implementation. It was challenging work, but I enjoyed seeing how my code could solve actual business problems and create value for the organization.
+I am accustomed to shift work and am completely flexible regarding work hours – both day and evening shifts suit me perfectly. As a person, I am responsible and goal-oriented with a strong work ethic. I thrive in physically demanding work and am in good physical condition, which allows me to maintain high productivity even during long and intensive workdays.
 
-### Beyond work and school
+### Team Spirit and Communication
 
-In my spare time, I love tinkering with tech projects at home. I enjoy exploring new technologies, automating everyday tasks, and building small applications that solve practical problems. Working on these personal projects has helped me develop skills in troubleshooting, finding creative solutions, and continuously learning new technologies on my own.
+I am fluent in Swedish in both speech and writing and have always prioritized clear communication with colleagues and supervisors. I see great value in being part of a team where everyone contributes to the common goal. My experience has taught me that a well-functioning warehouse requires everyone to take responsibility for their part and support each other when needed.
 
-### How I work
+### Forklift License and Development Opportunities
 
-I'm the kind of person who enjoys diving into new challenges and figuring things out. I work well in teams and am comfortable asking questions when needed, but I'm also good at working independently when that's what's required.
-I'm looking for an environment where I can continue developing my technical skills while contributing to meaningful projects. I'm adaptable and eager to learn whatever technologies are needed for the job.
+Although I do not currently hold a forklift license, I am highly motivated to complete forklift operator training upon employment. I see this as a natural part of my development within warehouse and logistics and am ready to invest in this competency to become an even more valuable employee.
+
+---
+
+I am confident that my combination of practical experience, strong work ethic, and genuine interest in warehouse work makes me an excellent candidate for your operation. I look forward to the opportunity to contribute to Team Effektiv while continuing to develop within an area I truly enjoy.
+
+Thank you for taking the time to read my letter. I look forward to hearing from you and having the opportunity to present myself in more detail.
+
+**Kind regards,**  
+Hampus Andersson
