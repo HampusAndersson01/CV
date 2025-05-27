@@ -1,7 +1,7 @@
 # Personligt brev
 
 **Till: S:t Olovsskolan, Köping**  
-**Angående: Tjänst inom fritids och elevstöd (vikariat)**
+**Angående: Fritidspedagog (vikariat)**
 
 Hej,
 
