@@ -2,7 +2,7 @@
 
 **Systemutvecklare**  
 [GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)  
-Uddarnas väg 4C, 43294 Varberg  
+Västra Åpromenaden 22A, 731 32 Köping
 076-337 15 17 | hampe.01@hotmail.com
 
 ---
