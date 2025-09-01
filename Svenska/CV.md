@@ -1,89 +1,88 @@
 # Hampus Andersson
 
-**Systemutvecklare**  
+**Testare / Systemutvecklare**  
 [GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)  
 Västra Åpromenaden 22A, 731 32 Köping  
-076-337 15 17 | hampe.01@hotmail.com
+076-337 15 17 | hampe.01@hotmail.com  
 
 ---
 
 ## PROFESSIONELL PROFIL
 
-Ambitiös och lösningsorienterad systemutvecklare med praktisk erfarenhet inom .NET, API-utveckling och webbteknologier. Van att arbeta i agila team med fokus på att skapa effektiva, användarvänliga lösningar. Kommunikativ, ansvarstagande och med en stark vilja att fortsätta utvecklas inom IT. Studerar för närvarande AI 1 för att bygga vidare på min tekniska bredd.
+Ambitiös och nyfiken systemutvecklare med växande erfarenhet inom test och kvalitetssäkring. Har en teknisk bakgrund i .NET, Python och databaser samt praktisk erfarenhet av Selenium för automatiserade tester. Van att arbeta i agila team genom praktik och examensarbete hos Volvo, där jag fick insikt i hela utvecklingskedjan från design till testning.  
 
+Studerar parallellt AI för att bredda min kompetens, med stark motivation att växa vidare inom testautomation. Mitt fokus ligger på att bygga robusta och hållbara lösningar med hög kvalitet.  
+
+---
 
 ## ERFARENHET
 
-**Elevassistent & Fritidspedagog**  
+**Elevassistent & Fritidspersonal**  
 *Vidhögeskolan, Veddige*  
 **Nov 2023 – Pågående**  
-- Ger stöd till elever i deras dagliga lärande och utveckling, samt medverkar till en trygg och stimulerande skolmiljö.
+- Ger stöd till elever i deras lärande och utveckling, ansvar för en trygg och strukturerad skolmiljö.  
+- Utvecklade stark kommunikationsförmåga och problemlösning i dynamiska miljöer.  
 
-**Examensarbete: Parameterdatabas för Volvo Trucks**  
+**Examensarbete: Parameterdatabas & API**  
 *Volvo Trucks, Göteborg*  
 **Maj 2023 – Jun 2023**  
-- Utvecklade en parameterdatabas med React-gränssnitt, backend i Node.js/Express och databas i MySQL.
-- Implementerade API, sökfunktioner, Excel-import/export och avancerad tabellanpassning.
-- Systemet togs emot positivt och används som grund för fortsatt utveckling inom organisationen.
+- Byggde en parameterdatabas med frontend i React, backend i Node.js/Express och databas i MySQL.  
+- Implementerade API, Excel-import/export och avancerade tabellfunktioner.  
+- Leveransen används idag som grund för vidareutveckling inom organisationen.  
 
-**Systemutvecklingspraktikant**  
+**Systemutvecklingspraktikant (.NET)**  
 *Volvo Powertrain, Göteborg*  
 **Nov 2022 – Jun 2023**  
-- Arbetade i ett C#-team med utveckling av interna applikationer för parameterhantering.
-- Bidrog i en agil miljö med integrationer, databashantering, dokumentation och testning.
-- Samarbetade med seniora utvecklare och byggde praktisk erfarenhet av komplex IT-miljö.
-
-
-
-
+- Arbetade i ett C#-team med utveckling av interna applikationer.  
+- Fick praktisk erfarenhet av agila metoder, databashantering och testning.  
+- Samarbetade nära seniora utvecklare i en komplex miljö.  
 
 **Butiks- & Lagerpersonal (Deltid)**  
 *Gekås Ullared AB, Ullared*  
 **Okt 2017 – Nov 2023**  
-- Hanterade kundservice, varuplock och lagerarbete i en snabb och serviceinriktad miljö.  
-- Utvecklade förmåga att arbeta strukturerat och effektivt under högt tryck.
+- Kundservice, varuplock och lagerarbete i högtempomiljö.  
+- Lärde mig att arbeta strukturerat, snabbt och kvalitetsfokuserat.  
 
-**Sommarjobb – Maskinhantering & Produktion**  
+**Sommarjobb – Produktion & Maskinhantering**  
 *Metall & Lego AB, Vessigebro*  
 **Sommar 2017**  
-- Ansvarade för maskinell tillverkning med fokus på kvalitet och precision.
+- Maskinell tillverkning med fokus på kvalitet och säkerhet.  
+
+---
 
 ## UTBILDNING
-
-**Systemutvecklare .NET**  
-*Yrkeshögskolan i Borås*  
-**Sep 2021 – Jun 2023**  
-- Fokus på .NET-utveckling, databaser, webbteknologier och programmering i C#.
-- Examensarbete: *"Utveckling av parameterdatabas med React, Node.js och MySQL för Volvo Trucks."*
 
 **Teknikprogrammet – Information och medieteknik**  
 *Peder Skrivares skola, Varberg*  
 **Aug 2017 – Jun 2020**
 
-**AI 1** *(pågående)*  
+**AI 1 (pågående)**  
 *Distansstudier, 2024*  
-- Grundläggande kurs inom artificiell intelligens för att bredda IT-kompetensen mot framtida teknologier.
+- Grundkurs inom artificiell intelligens för att komplettera utvecklarbakgrund.  
 
+---
 
 ## TEKNISK KOMPETENS
 
-**Programmeringsspråk:**  
-C#, Python, JavaScript, TypeScript, HTML, CSS
+- **Programmeringsspråk:** C#, Python, JavaScript, TypeScript, SQL  
+- **Ramverk & Verktyg:** .NET, React, Node.js, Express, MySQL, Git  
+- **Test & Automation:** Selenium, Jenkins (grundläggande), automatisering av arbetsflöden  
+- **Arbetssätt:** Agila metoder (Scrum, Kanban)  
 
-**Ramverk & Verktyg:**  
-.NET, React, MySQL, Node.js, Express, Git, Firebase
-
+---
 
 ## SPRÅKKUNSKAPER
 
 - **Svenska:** Modersmål  
-- **Engelska:** Flytande
+- **Engelska:** Flytande  
 
+---
 
 ## ÖVRIGT
 
-**Körkort:** B-behörighet
+**Körkort:** B-behörighet  
 
+---
 
 ## REFERENSER
 

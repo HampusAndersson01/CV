@@ -1,35 +1,32 @@
 # Hampus Andersson
 
-**Systemutvecklare**  
+**Testare / Systemutvecklare**  
 [GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)  
 Västra Åpromenaden 22A, 731 32 Köping  
-076-337 15 17 | hampe.01@hotmail.com
+076-337 15 17 | hampe.01@hotmail.com  
 
 ---
 
 ## Personligt Brev
 
-**Hej,**
+**Till Knowit Connectivity, Örebro**
 
-Jag heter Hampus Andersson och har nyligen flyttat till Köping där jag kombinerar studier i artificiell intelligens med en ambition att växa vidare inom IT. Med erfarenhet från Volvo Trucks, både genom praktik och examensarbete, samt flera års arbete inom service och support, söker jag nu en teknisk roll via Randstad där jag kan bidra med min kompetens och fortsätta utvecklas.
+Hej,  
 
-### Bred teknisk kompetens och erfarenhet från industrin
+Jag heter Hampus Andersson och söker med stort engagemang rollen som testare hos Knowit Connectivity i Örebro. Med en bakgrund som systemutvecklare inom .NET och Python, kombinerat med praktisk erfarenhet av Selenium och testautomation, vill jag nu utvecklas vidare inom QA och bidra till ert kvalitetsarbete.  
 
-Mitt examensarbete på Volvo Trucks fokuserade på att utveckla en parameterdatabas med tillhörande intern applikation och API. Jag ansvarade för hela lösningen – från kravinsamling och databasdesign till frontend-utveckling i React och backend i Node.js. Systemet togs emot mycket positivt och används idag som grund för vidare utveckling inom organisationen.
+### Teknisk bakgrund med fokus på kvalitet  
+Mitt examensarbete på Volvo Trucks innebar att bygga en parameterdatabas och ett tillhörande API. Jag ansvarade för hela kedjan – från kravinsamling till leverans – vilket gav mig förståelse för hur viktiga robusta och testbara system är. På min praktik hos Volvo Powertrain arbetade jag i ett C#-team i en agil miljö där jag fick erfarenhet av integrationer, testning och dokumentation.  
 
-Innan dess genomförde jag en längre praktik på Volvo Powertrain i Göteborg (november 2022 till juni 2023), där jag arbetade i ett C#-team i en agil miljö. Där fick jag erfarenhet av att samarbeta i större utvecklingsprojekt, hantera integrationer och arbeta med kvalitetssäkring och dokumentation. Tillsammans visar dessa två erfarenheter att jag både kan bidra i team och driva egna tekniska lösningar från idé till färdig produkt.
+### Test och automation som nästa steg  
+Jag har använt Selenium för att automatisera webbflöden och ser testautomation som ett område där jag verkligen vill växa. Min kombination av utvecklarbakgrund och QA-intresse gör att jag kan samarbeta nära utvecklare och bidra både i byggandet och kvalitetssäkringen av system.  
 
-### Servicevana och god samarbetsförmåga
-
-Min tidigare bakgrund inom lager, butik och skola har gett mig god erfarenhet av att arbeta serviceinriktat och lösningsfokuserat. Jag har lätt för att samarbeta med både tekniker och slutanvändare, kommunicerar tydligt och trivs i roller där jag får vara ett tekniskt stöd.
-
-### Snabblärd, nyfiken och flexibel
-
-Jag sätter mig snabbt in i nya system och arbetsflöden och har ett stort intresse för IT-drift, molnteknik och cybersäkerhet. Mina nuvarande AI-studier kompletterar min tekniska bakgrund och håller mig uppdaterad kring nya teknologier. Jag är öppen för uppdrag inom support, systemadministration, test eller utveckling och anpassar mig lätt efter verksamhetens behov.
+### Driv, nyfikenhet och lärande  
+Förutom min utvecklarutbildning kompletterar jag min kompetens med AI-studier. Det speglar min vilja att ständigt lära mig nytt och ligga nära teknikutvecklingen. Jag motiveras av att hitta lösningar som är hållbara på lång sikt och ser Knowit som en miljö där jag kan kombinera mitt driv med en stark teknisk grund.  
 
 ---
 
-Jag ser fram emot att höra mer om vilka uppdrag som kan passa min profil och att få visa vad jag kan bidra med i en framtida roll via Randstad. Tack för att ni tagit er tid att läsa mitt brev.
+Jag ser fram emot möjligheten att bidra till Knowit Connectivitys expansion i Örebro och att växa tillsammans med er i rollen som testare. Tack för att ni tagit er tid att läsa min ansökan – jag hoppas på att få träffas och berätta mer om hur jag kan stärka ert team.  
 
 **Vänliga hälsningar**  
 Hampus Andersson
