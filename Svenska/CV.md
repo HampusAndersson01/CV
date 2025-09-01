@@ -33,6 +33,10 @@ Ambitiös och lösningsorienterad systemutvecklare med praktisk erfarenhet inom 
 - Bidrog i en agil miljö med integrationer, databashantering, dokumentation och testning.
 - Samarbetade med seniora utvecklare och byggde praktisk erfarenhet av komplex IT-miljö.
 
+
+
+
+
 **Butiks- & Lagerpersonal (Deltid)**  
 *Gekås Ullared AB, Ullared*  
 **Okt 2017 – Nov 2023**  
