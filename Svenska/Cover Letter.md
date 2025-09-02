@@ -7,29 +7,30 @@ Västra Åpromenaden 22A, 731 32 Köping
 
 ---
 
-## Personligt Brev
+# Personligt Brev
 
-**Hej,**
+**Hej Alstom,**
 
-Jag heter Hampus Andersson och har nyligen flyttat till Köping där jag kombinerar studier i artificiell intelligens med en ambition att växa vidare inom IT. Med erfarenhet från Volvo Trucks, både genom praktik och examensarbete, samt flera års arbete inom service och support, söker jag nu en teknisk roll via Randstad där jag kan bidra med min kompetens och fortsätta utvecklas.
+Jag heter Hampus Andersson och är en systemutvecklare med erfarenhet från både frontend och backend, men också ett växande intresse för drift, molntjänster och teknisk support. Efter att ha arbetat med systemutveckling på Volvo Trucks och Powertrain söker jag nu nästa steg i min karriär – gärna i en teknisk och lärande miljö som den ni erbjuder.
 
-### Bred teknisk kompetens och erfarenhet från industrin
+### Praktisk erfarenhet som matchar rollen
 
-Mitt examensarbete på Volvo Trucks fokuserade på att utveckla en parameterdatabas med tillhörande intern applikation och API. Jag ansvarade för hela lösningen – från kravinsamling och databasdesign till frontend-utveckling i React och backend i Node.js. Systemet togs emot mycket positivt och används idag som grund för vidare utveckling inom organisationen.
+Mitt examensarbete på Volvo Trucks bestod i att bygga en parameterdatabas med tillhörande API och användargränssnitt i React. Under praktiken på Volvo Powertrain arbetade jag i ett C#-team i en internationell, agil miljö där jag ansvarade för databashantering, felsökning och integrationer. Där fick jag också erfarenhet av dokumentation och testning – flera av de områden ni lyfter som centrala.
 
-Innan dess genomförde jag en längre praktik på Volvo Powertrain i Göteborg (november 2022 till juni 2023), där jag arbetade i ett C#-team i en agil miljö. Där fick jag erfarenhet av att samarbeta i större utvecklingsprojekt, hantera integrationer och arbeta med kvalitetssäkring och dokumentation. Tillsammans visar dessa två erfarenheter att jag både kan bidra i team och driva egna tekniska lösningar från idé till färdig produkt.
+### Molnintresse och teknisk bredd
 
-### Servicevana och god samarbetsförmåga
+Utöver praktiska utvecklarerfarenheter har jag arbetat i projekt med distribuerade lösningar i Firebase, och jag ser nu fram emot att bygga vidare på den kompetensen inom Azure. Jag är nyfiken, snabblärd och tycker det är roligt att sätta mig in i nya plattformar och skriptverktyg – särskilt när det handlar om att förbättra och automatisera tekniska processer.
 
-Min tidigare bakgrund inom lager, butik och skola har gett mig god erfarenhet av att arbeta serviceinriktat och lösningsfokuserat. Jag har lätt för att samarbeta med både tekniker och slutanvändare, kommunicerar tydligt och trivs i roller där jag får vara ett tekniskt stöd.
+### Samarbete och driv
 
-### Snabblärd, nyfiken och flexibel
-
-Jag sätter mig snabbt in i nya system och arbetsflöden och har ett stort intresse för IT-drift, molnteknik och cybersäkerhet. Mina nuvarande AI-studier kompletterar min tekniska bakgrund och håller mig uppdaterad kring nya teknologier. Jag är öppen för uppdrag inom support, systemadministration, test eller utveckling och anpassar mig lätt efter verksamhetens behov.
+Jag är en kommunikativ lagspelare som trivs i team där man delar kunskap och växer tillsammans. I samarbete med både tekniker och användare har jag utvecklat förmågan att lyssna, felsöka och föreslå lösningar som gör verklig skillnad – både tekniskt och för verksamheten.
 
 ---
 
-Jag ser fram emot att höra mer om vilka uppdrag som kan passa min profil och att få visa vad jag kan bidra med i en framtida roll via Randstad. Tack för att ni tagit er tid att läsa mitt brev.
+Jag ser fram emot att få växa tillsammans med Alstom – både genom att bidra med det jag redan kan och genom att snabbt tillägna mig nya teknologier inom er moln- och hostingmiljö.
 
-**Vänliga hälsningar**  
-Hampus Andersson
+Tack för att ni överväger min ansökan.
+
+**Vänliga hälsningar,**  
+Hampus Andersson  
+

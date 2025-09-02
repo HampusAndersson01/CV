@@ -1,34 +1,28 @@
-# HAMPUS ANDERSSON
+# Cover Letter
 
-**Software Developer**  
-[GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)
+Hi Alstom,
 
-Uddarnas väg 4C, 43294 Varberg  
-0763371517 | hampe.01@hotmail.com
+My name is Hampus Andersson and I am a software developer with hands-on experience in both backend and frontend. I also have a strong interest in infrastructure, cloud technologies and technical support. After working on system development projects at Volvo Trucks and Powertrain, I am now looking for the next step in my career. I would like to work in a collaborative and learning-focused environment like yours.
+
+### Practical experience that matches the role
+
+During my thesis at Volvo Trucks I developed a full stack parameter database. This included a custom API and a user-friendly React interface. At Volvo Powertrain I worked in a C# team in an international and agile environment. I contributed to integrations, debugging, documentation and testing. These tasks are very similar to the responsibilities described in your job ad.
+
+### Cloud experience and technical curiosity
+
+Besides traditional development I have worked on distributed systems using Firebase. I am now eager to build skills in Azure and other modern platforms. I enjoy learning new tools and automating workflows to improve technical processes.
+
+### Collaboration and problem solving
+
+I am a team player who communicates clearly and listens well. I have worked with both developers and end users. These experiences have helped me understand how to solve problems in ways that are useful in practice and meaningful to others.
 
 ---
 
-## Cover Letter
+I am excited about the opportunity to grow with Alstom. I want to contribute with what I already know and I am motivated to quickly learn new tools that support your cloud and hosting environments.
 
-Hi,
+Thank you for considering my application.
 
-I'm Hampus, a software developer who graduated in 2023 with a focus on .NET development. I'm reaching out because I'm excited about finding a role where I can put my tech skills to good use and continue growing as an IT professional.
-
-### What I bring to the table
-
-During my studies at Borås University, I got really into C# and the whole .NET ecosystem. I've also picked up quite a bit of experience with:
-
-- Building web applications using JavaScript, TypeScript and React
-- Working with databases (both SQL and NoSQL)
-- Collaborating with others using Git and agile methods
-
-My internship at Volvo Powertrain gave me real-world experience that I'm proud of. As my graduation project, I independently developed an API and web interface that made it easier to manage parameters across different systems. Working autonomously while consulting with senior developers, I was responsible for the entire development process from design to implementation. It was challenging work, but I enjoyed seeing how my code could solve actual business problems and create value for the organization.
-
-### Beyond work and school
-
-In my spare time, I love tinkering with tech projects at home. I enjoy exploring new technologies, automating everyday tasks, and building small applications that solve practical problems. Working on these personal projects has helped me develop skills in troubleshooting, finding creative solutions, and continuously learning new technologies on my own.
-
-### How I work
-
-I'm the kind of person who enjoys diving into new challenges and figuring things out. I work well in teams and am comfortable asking questions when needed, but I'm also good at working independently when that's what's required.
-I'm looking for an environment where I can continue developing my technical skills while contributing to meaningful projects. I'm adaptable and eager to learn whatever technologies are needed for the job.
+**Best regards**  
+Hampus Andersson  
+[GitHub](https://github.com/HampusAndersson01) • [LinkedIn](https://www.linkedin.com/in/hampusandersson01)  
+hampe.01@hotmail.com • 076-337 15 17

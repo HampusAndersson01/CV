@@ -1,53 +1,58 @@
-# HAMPUS ANDERSSON
+# Hampus Andersson
 
 **Software Developer**  
-[GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)
-
+[GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)  
 Uddarnas väg 4C, 43294 Varberg  
-0763371517 | hampe.01@hotmail.com
+076-337 15 17 | hampe.01@hotmail.com
+
+---
+
+## PROFESSIONAL PROFILE
+
+Solution-oriented software developer with hands-on experience in C#, API development, and cloud-based technologies. Background from Volvo Trucks and Powertrain, including development, debugging, documentation, and testing. Communicative team player with a strong interest in infrastructure, Azure, and automation.
 
 ---
 
 ## EXPERIENCE
 
-**Teacher Assistant & After-school Educator**  
-_Vidhögeskolan, Veddige_  
-**Nov 2023 – Ongoing**
+**Thesis Project: Parameter Database**  
+_Volvo Trucks, Gothenburg_  
+**May 2023 – Jun 2023**
 
-- Supporting students in their daily learning and development.
+- Built a parameter database with a React frontend, Node.js/Express backend, and MySQL database.
+- Implemented API, Excel import/export, and advanced table customisation.
+- Adopted internally as a foundation for continued development.
 
 **System Development Intern**  
 _Volvo Powertrain, Gothenburg_  
 **Nov 2022 – Jun 2023**
 
-- Independently developed a comprehensive API and web interface for managing parameters related to different rig families as my graduation project.
-- Designed and implemented database solutions, system integrations, and user interfaces from the ground up.
-- Collaborated with senior developers in an agile environment to understand requirements and delivered solutions that improved internal workflows.
+- Contributed in a C# development team within an agile environment.
+- Worked with database handling, integrations, testing, and documentation.
+- Gained valuable experience from international collaboration and complex IT systems.
 
-**Part-time Employee**  
+**Teacher Assistant & After-school Educator**  
+_Vidhögeskolan, Veddige_  
+**Nov 2023 – Present**
+
+- Supporting students and maintaining a structured, positive learning environment.
+
+**Part-time Warehouse & Retail Employee**  
 _Gekås Ullared AB, Ullared_  
 **Oct 2017 – Nov 2023**
 
-- Customer service and warehouse management in a high-intensity environment with a strong focus on accuracy and efficiency.
+- Customer service, picking, and logistics in a high-volume retail environment.
 
-**Summer Job**  
-_Metall & Lego AB, Vessigebro_  
-**Summer 2017**
-
-- Responsible for machine handling and manufacturing with a focus on quality and precision.
-
-<div class="page-break"></div> <!-- Added page break -->
+---
 
 ## EDUCATION
 
-**Software Developer .NET**  
-_Borås University of Applied Sciences_  
-**Sep 2021 – Jun 2023**
+**AI 1 (in progress)**  
+_Remote studies, 2024_
 
-- Advanced knowledge in .NET, databases, web development, and C#.
-- Thesis project: "Independent development of an API and web interface for managing parameters for different rig families at Volvo Powertrain."
+- Introductory course in artificial intelligence and future technologies.
 
-**Technical Program, Information and Media Technology**  
+**Technical Program – Information and Media Technology**  
 _Peder Skrivares School, Varberg_  
 **Aug 2017 – Jun 2020**
 
@@ -55,32 +60,23 @@ _Peder Skrivares School, Varberg_
 
 ## TECHNICAL SKILLS
 
-**Programming**
-
-- C#, Python, JavaScript, TypeScript, HTML/CSS
-
-**Frameworks & Tools**
-
-- React, .NET, MySQL, Firebase, Git
+**Languages & Technologies:**  
+C#, JavaScript, TypeScript, Python, HTML/CSS  
+**Frameworks & Platforms:**  
+.NET, React, Node.js, Express, Firebase, MySQL, Git  
+**Areas of Interest:**  
+Azure, infrastructure, debugging, automation, documentation
 
 ---
 
 ## LANGUAGE SKILLS
 
-- Swedish: Native
-- English: Fluent
+- **Swedish:** Native
+- **English:** Fluent
 
 ---
 
-## DRIVER'S LICENSE
+## OTHER
 
-- Possesses a B driver's license
-
----
-
-## REFERENCES
-
-**Fredrik Widengren**  
-_Senior Expert Development Engineer, Volvo Trucks Technology_  
-076-553 65 66 | fredrik.widengren@volvo.com  
-Supervisor during my internship at Volvo Powertrain.
+**Driver’s License:** B category  
+**References available upon request.**
