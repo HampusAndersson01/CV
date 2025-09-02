@@ -9,7 +9,7 @@ Västra Åpromenaden 22A, 731 32 Köping
 
 ## PROFESSIONELL PROFIL
 
-Ambitiös och lösningsorienterad systemutvecklare med praktisk erfarenhet inom .NET, API-utveckling och webbteknologier. Van att arbeta i agila team med fokus på att skapa effektiva, användarvänliga lösningar. Kommunikativ, ansvarstagande och med en stark vilja att fortsätta utvecklas inom IT. Studerar för närvarande AI 1 för att bygga vidare på min tekniska bredd.
+Jag är en teknikintresserad systemutvecklare med praktisk erfarenhet från komplexa IT-miljöer. Jag har arbetat med integrationer och databashantering, framför allt under min tid på Volvo Powertrain. Jag har god vana av felsökning, testning och dokumentation. Just nu vill jag bredda min kompetens och utvecklas inom drift, infrastruktur och systemadministration. Jag lär mig snabbt, är noggrann och vill gärna utvecklas vidare inom Windowsmiljöer och teknisk problemlösning.
 
 
 ## ERFARENHET
