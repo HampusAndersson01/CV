@@ -1,94 +1,97 @@
 # Hampus Andersson
 
-**Systemutvecklare**  
+**Systemutvecklare (.NET / Fullstack)**  
 [GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)  
-Västra Åpromenaden 22A, 731 32 Köping  
+Uddarnas väg 4C, 43294 Varberg  
 076-337 15 17 | hampe.01@hotmail.com
 
 ---
 
-## PROFESSIONELL PROFIL
+## PROFIL
 
-Ambitiös och lösningsorienterad systemutvecklare med praktisk erfarenhet inom .NET, API-utveckling och webbteknologier. Van att arbeta i agila team med fokus på att skapa effektiva, användarvänliga lösningar. Kommunikativ, ansvarstagande och med en stark vilja att fortsätta utvecklas inom IT. Studerar för närvarande AI 1 för att bygga vidare på min tekniska bredd.
+Utbildad systemutvecklare med fokus på .NET och C#, förstärkt av praktisk erfarenhet från Volvo Powertrain. Jag har arbetat med allt från backend-utveckling och databaser till API-integrationer och frontend i React. Van vid agila arbetssätt och teamutveckling i tekniskt komplexa miljöer. I början av min utvecklarkarriär men med erfarenheter som redan gett mig insikt i industriella system och högt ställda krav. Jag söker nu en roll där jag kan växa vidare och bidra i ett ambitiöst utvecklingsteam.
 
+---
 
 ## ERFARENHET
 
 **Elevassistent & Fritidspedagog**  
-*Vidhögeskolan, Veddige*  
-**Nov 2023 – Pågående**  
-- Ger stöd till elever i deras dagliga lärande och utveckling, samt medverkar till en trygg och stimulerande skolmiljö.
+_Vidhögeskolan, Veddige_  
+**Nov 2023 – Pågående**
+
+- Arbetar i en stöttande roll med barn och ungdomar, vilket utvecklat min kommunikation, struktur och förmåga att samarbeta med olika individer.
 
 **Examensarbete: Parameterdatabas för Volvo Trucks**  
-*Volvo Trucks, Göteborg*  
-**Maj 2023 – Jun 2023**  
-- Utvecklade en parameterdatabas med React-gränssnitt, backend i Node.js/Express och databas i MySQL.
-- Implementerade API, sökfunktioner, Excel-import/export och avancerad tabellanpassning.
-- Systemet togs emot positivt och används som grund för fortsatt utveckling inom organisationen.
+_Volvo Trucks, Göteborg_  
+**Maj 2023 – Jun 2023**
 
-**Systemutvecklingspraktikant**  
-*Volvo Powertrain, Göteborg*  
-**Nov 2022 – Jun 2023**  
-- Arbetade i ett C#-team med utveckling av interna applikationer för parameterhantering.
-- Bidrog i en agil miljö med integrationer, databashantering, dokumentation och testning.
-- Samarbetade med seniora utvecklare och byggde praktisk erfarenhet av komplex IT-miljö.
+- Utvecklade ett komplett fullstack-system med React (frontend), Node.js/Express (backend) och MySQL (databas).
+- Funktionalitet inkluderade API, avancerade sökfunktioner, Excel-import/export samt tabellhantering.
+- Lösningen mottogs väl och används som grund för fortsatt internutveckling.
 
+**Systemutvecklingspraktikant (.NET / C#)**  
+_Volvo Powertrain, Göteborg_  
+**Nov 2022 – Jun 2023**
 
-
-
+- Arbetade i ett team med utveckling av interna applikationer inom parameterhantering.
+- Bidrog med backendutveckling i C#, databashantering (SQL), integrationer och dokumentation.
+- Deltog aktivt i ett agilt arbetssätt med dagliga möten, planering, testning och iterationer.
+- Fick insikt i att arbeta nära produktägare och verksamhet i en avancerad utvecklingsmiljö.
 
 **Butiks- & Lagerpersonal (Deltid)**  
-*Gekås Ullared AB, Ullared*  
-**Okt 2017 – Nov 2023**  
-- Hanterade kundservice, varuplock och lagerarbete i en snabb och serviceinriktad miljö.  
-- Utvecklade förmåga att arbeta strukturerat och effektivt under högt tryck.
+_Gekås Ullared AB, Ullared_  
+**Okt 2017 – Nov 2023**
 
-**Sommarjobb – Maskinhantering & Produktion**  
-*Metall & Lego AB, Vessigebro*  
-**Sommar 2017**  
-- Ansvarade för maskinell tillverkning med fokus på kvalitet och precision.
+- Arbetade i ett högt tempo med logistik, kundservice och varuhantering. Stärkt min arbetsdisciplin och teamvana.
+
+---
 
 ## UTBILDNING
 
 **Systemutvecklare .NET**  
-*Yrkeshögskolan i Borås*  
-**Sep 2021 – Jun 2023**  
-- Fokus på .NET-utveckling, databaser, webbteknologier och programmering i C#.
-- Examensarbete: *"Utveckling av parameterdatabas med React, Node.js och MySQL för Volvo Trucks."*
+_Yrkeshögskolan i Borås_  
+**Sep 2021 – Jun 2023**
+
+- Kurser i bl.a. .NET, C#, databasutveckling (SQL), objektorienterad programmering, agil systemutveckling, frontend med JavaScript/React och testning.
+- Avslutade med ett examensarbete där jag byggde ett system från grunden (fullstack) för intern användning på Volvo Trucks.
 
 **Teknikprogrammet – Information och medieteknik**  
-*Peder Skrivares skola, Varberg*  
+_Peder Skrivares skola, Varberg_  
 **Aug 2017 – Jun 2020**
 
-**AI 1** *(pågående)*  
-*Distansstudier, 2024*  
-- Grundläggande kurs inom artificiell intelligens för att bredda IT-kompetensen mot framtida teknologier.
+**AI 1 (pågående)**  
+_Distansstudier, 2024_
 
+- Grundläggande kurs i artificiell intelligens för att bredda min tekniska kompetens.
+
+---
 
 ## TEKNISK KOMPETENS
 
-**Programmeringsspråk:**  
-C#, Python, JavaScript, TypeScript, HTML, CSS
+**Språk:**  
+C#, JavaScript, TypeScript, Python, HTML, CSS
 
 **Ramverk & Verktyg:**  
-.NET, React, MySQL, Node.js, Express, Git, Firebase
+.NET, React, Node.js, Express, MySQL, Git, Firebase
 
+**Arbetssätt:**  
+Agil utveckling (Scrum), testning, dokumentation, kodgranskning, samarbete i team
 
-## SPRÅKKUNSKAPER
+---
 
-- **Svenska:** Modersmål  
+## SPRÅK
+
+- **Svenska:** Modersmål
 - **Engelska:** Flytande
 
+---
 
 ## ÖVRIGT
 
 **Körkort:** B-behörighet
 
+---
 
 ## REFERENSER
 
-**Fredrik Widengren**  
-Senior Expert Development Engineer, Volvo Trucks Technology  
-Telefon: 076-553 65 66  
-E-post: fredrik.widengren@volvo.com  
-(Handledare under praktikperioden på Volvo Powertrain)
+Referenser lämnas gärna på begäran.
