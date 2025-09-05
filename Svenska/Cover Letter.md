@@ -1,33 +1,26 @@
-# Hampus Andersson
+# Personligt brev – IT-systemförvaltare, FMTIS Arboga
 
-**Systemutvecklare / IT-tekniker**  
-[GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)  
-Uddarnas väg 4C, 43294 Varberg  
-076-337 15 17 | hampe.01@hotmail.com
+**Till Försvarsmakten (FMTIS), Stödsystemsektionen – Arboga**
 
----
+Att få bidra till Sveriges säkerhet genom mitt dagliga arbete är starkt motiverande. Jag söker därför rollen som **IT-systemförvaltare** i Arboga. Jag kommer från en miljö där **systemintegration, databaser och API:er** möter **struktur, dokumentation och kvalitet** – och vill omsätta detta i ett långsiktigt **förvaltningsansvar** där tillgänglighet och säkerhet är centralt.
 
-## Personligt brev
+### Varför jag passar i ett förvaltningsuppdrag
 
-**Till Försvarsmakten, FMTIS Arboga**
+- **Efterlevnad och ordning** – Jag trivs i ett **process- och förvaltningsorienterat arbetssätt**: tydlig ärendehantering, versionsstyrning, **release/change-steg (grund)**, uppföljning mot mål/SLA och **spårbar dokumentation**.
+- **Livscykel & samverkan** – Van att samarbeta med utvecklare, produktägare och användare. Jag arbetar långsiktigt med **livscykelhantering** (uppgraderingar, avveckling, beroenden) och **omvärldsbevakar** relevant teknik.
+- **Säkerhet i praktiken** – Har **grundläggande** förståelse för **backup/återläsning**, härdning och åtkomstprinciper (least privilege), samt **loggning/monitorering** för stabil drift.
+- **Teknisk bredd** – Bas inom **databas/OS/nätverk**, kompletterad av utvecklarkompetens (C#, .NET, SQL, React/TS) vilket underlättar dialog mellan verksamhet, drift och utveckling.
 
-Att få bidra till Sveriges säkerhet genom mitt arbete är både meningsfullt och motiverande för mig. Därför söker jag med stort intresse tjänsten som IT-systemförvaltare hos Försvarsmakten i Arboga. Jag har erfarenhet av systemutveckling i komplexa miljöer, ett växande fokus på IT-drift och en hög säkerhetsmedvetenhet. Nu vill jag ta ansvar för att förvalta och vidareutveckla viktiga IT-system inom en samhällsbärande organisation.
+### Kort om erfarenhet
 
-### Erfarenhet från avancerad IT-miljö
+På **Volvo Powertrain** arbetade jag i ett agilt team med **C#, SQL och API:er** för interna system. Jag deltog i **testning, dokumentation** och **driftnära arbete**, vilket gav mig respekt för **spårbarhet, kvalitet och säkerhet** i varje steg. I mitt **examensprojekt** byggde jag ett fullständigt system (API + webb, MySQL) för parameterhantering – med fokus på datastruktur, prestanda och **över­lämning/dokumentation**.
 
-Under min praktik på Volvo Powertrain deltog jag i ett utvecklingsteam med fokus på C#, API:er, databaser och systemintegration. Arbetet genomfördes i nära samarbete med produktägare och andra utvecklare. Jag var delaktig i hela utvecklingskedjan, inklusive dokumentation och testning. Dessa erfarenheter har gett mig insikt i vikten av strukturer, tydlig kommunikation och kvalitet i alla led.
+### Motivation, ort och tillgänglighet
 
-### Teknisk bredd och framtidsfokus
+Jag delar Försvarsmaktens värdegrund om **öppenhet, resultat och ansvar** och drivs av att bygga **robusta, säkra** system som håller över tid. Jag kan **pendla eller flytta** till Arboga och anpassar **tillträde** efter behov. Jag är **beredd att genomgå säkerhetsprövning och krigsplacering** samt förstår uppdragets krav på säkerhet och integritet.
 
-Jag har en stabil grund inom .NET-utveckling och backend, men är också intresserad av Linux, servrar och IT-säkerhet. I mitten av september till oktober kommer jag att gå en kortare utbildning i nätverksadministration som breddar min kompetens inom infrastruktur, operativsystem och säkerhet. Jag vill gärna använda dessa kunskaper praktiskt inom en verksamhet som prioriterar robusta och säkra system.
-
-### Personliga egenskaper och värderingar
-
-Jag är ansvarstagande, strukturerad och samarbetsinriktad. Genom fotboll, som jag har spelat större delen av livet, har jag lärt mig vikten av lagarbete, disciplin och långsiktigt engagemang. Dessa erfarenheter speglar mitt sätt att arbeta även i yrkeslivet. Jag trivs i sammanhang där jag får bidra till ett större syfte och där gemensamma mål står i fokus.
-
----
-
-Jag ser fram emot möjligheten att berätta mer om hur jag kan bidra som IT-systemförvaltare. Tack för att ni tagit er tid att läsa mitt brev.
+Jag ser fram emot möjligheten att bidra till **Systemförvaltningsenheten** och till **Stödsystemsektionens** uppdrag. Tack för er tid och övervägande.
 
 **Vänliga hälsningar**  
-Hampus Andersson
+Hampus Andersson  
+076-337 15 17 • hampe.01@hotmail.com • GitHub: HampusAndersson01

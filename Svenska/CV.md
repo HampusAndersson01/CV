@@ -1,102 +1,77 @@
 # Hampus Andersson
 
-**Systemutvecklare / IT-tekniker**  
+**IT-systemförvaltare (junior) / IT-tekniker**  
 [GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)  
 Uddarnas väg 4C, 43294 Varberg  
 076-337 15 17 | hampe.01@hotmail.com
 
 ---
 
-## PROFIL
+## Profil
 
-## Systemutvecklare med praktisk erfarenhet från komplex IT-miljö på Volvo Powertrain. Van att arbeta med API-utveckling, databaser och systemintegration i tekniskt krävande sammanhang. Har dessutom erfarenhet av Linux, serveradministration och ett växande intresse för IT-drift och nätverk. Genom min tekniska bakgrund, höga säkerhetsmedvetenhet och samarbetsförmåga vill jag bidra till Försvarsmaktens uppdrag.
+Systeminriktad IT-generalist med erfarenhet av **systemintegration, API:er och databaser** i komplex miljö (Volvo). Van att dokumentera, testa och samarbeta nära verksamheten. Har **grund för drift/infrastruktur** (Windows Server, Linux, nätverk) samt växande fokus på **backup, härdning och åtkomststyrning**. Trivs i ett **processorienterat förvaltningsarbete** där tillgänglighet och säkerhet är centralt.
 
-## ERFARENHET
+## Nyckelkompetens
 
-**Elevassistent & Fritidspedagog**  
-_Vidhögeskolan, Veddige_  
-**Nov 2023 – Pågående**
+- **Systemförvaltning & process**: ärendehantering, ändrings-/releaseflöden (grund), dokumentation, spårbarhet, efterlevnad.
+- **Infrastruktur**: Windows Server & Linux (grund), nätverk (TCP/IP, subnät – grund), **backup/återläsning (grund)**, loggning/monitorering.
+- **Databaser & integration**: SQL/MySQL, dataflöden och API-konsumtion/utveckling.
+- **Utveckling & verktyg**: C#, .NET, Node.js, React, TypeScript/JavaScript, Git, Postman, Jira.
+- **Säkerhet (grund)**: principen ”least privilege”, behörighet/styrning, härdning och loggning.
 
-- Arbetar i en trygghetsskapande roll där struktur, ansvar och kommunikation är avgörande.
-- Utvecklat min förmåga att hantera varierande uppgifter och snabbt anpassa mig till nya situationer.
+## Erfarenhet
 
-**Systemutvecklingspraktikant (.NET / C#)**  
-_Volvo Powertrain, Göteborg_  
+**Systemutvecklingspraktikant (.NET/C#)** — _Volvo Powertrain, Göteborg_  
 **Nov 2022 – Jun 2023**
 
-- Arbetade med systemintegration och backendutveckling i en agil miljö.
-- Erfarenhet av databashantering (SQL), API-utveckling och intern dokumentation.
-- Arbetade nära verksamheten i ett team med högt säkerhets- och kvalitetsfokus.
+- Arbetade med **systemintegration** och backend i ett agilt team; **SQL**, API-utveckling och intern dokumentation.
+- Bidrog till **testning** och **driftnära dokumentation** för stabil förvaltning.
+- Medverkade i **enklare release/change-steg** och förbättrade **loggning/övervakning** tillsammans med teamet.
 
-**Examensarbete – Fullstacklösning**  
-_Volvo Trucks, Göteborg_  
+**Examensarbete – Parameterhanteringssystem (fullstack)** — _Volvo Trucks, Göteborg_  
 **Maj 2023 – Jun 2023**
 
-- Byggde ett fullständigt system i React/Node.js/MySQL för parameterhantering och rapportering.
-- Funktionalitet inkluderade API, avancerade sökfunktioner, Excel-integration och dataimport/export.
+- Byggde ett **API + webbgränssnitt** (React/Node.js/MySQL) för parameterhantering och rapportering.
+- Fokus på **datamodell, sök/prestanda, import/export** samt **över­lämning & driftdokumentation**.
 
-**Butiks- & Lagerpersonal (Deltid)**  
-_Gekås Ullared AB, Ullared_  
+**Elevassistent & arbete i fritidshem** — _Vidhögeskolan, Veddige_  
+**Nov 2023 – Pågående**
+
+- Trygghetsskapande stöd i skolmiljö; tränad i **struktur, kommunikation, sekretess och ansvar**.
+
+**Butiks- & lagerpersonal (deltid)** — _Gekås Ullared AB, Ullared_  
 **Okt 2017 – Nov 2023**
 
-- Ansvar för varuhantering och logistik i högt tempo.
-- Utvecklade noggrannhet, punktlighet och samarbetsförmåga.
+- Varuhantering och logistik i högt tempo; **noggrannhet, punktlighet och samarbete**.
+
+## Utbildning
+
+**Kommande kurs: Nätverksadministration** — _Distans_ (**sep–okt 2025**)
+
+- Grundläggande nätverksteknik och servermiljöer • Installation/konfiguration/felsökning • **Säkerhetsprinciper** i nätverk.
+
+**AI 1 – Introduktion till artificiell intelligens** — _Distans_ (**2025, pågående**)
+
+**Teknikprogrammet – Information & medieteknik** — _Peder Skrivares skola, Varberg_ (**2017–2020**)
+
+## Projekt (GitHub – urval)
+
+- **Parameter-Database** — Fullstacklösning för **parameterhantering**; API + webb, MySQL (Volvo-relaterat).
+
+## Teknisk kompetens (sammanfattning)
+
+**System & infrastruktur:** Windows Server, Linux, nätverk (grund), **backup/återläsning (grund)**, Git  
+**Databaser:** SQL/MySQL • **Integration:** REST-API:er • **Utveckling:** C#, .NET, Node.js, React, TypeScript/JS  
+**Arbetssätt:** Agilt, **ITIL-nära begrepp** (incident/change/problem – grund), dokumentation, test
+
+## Språk
+
+Svenska (modersmål) • Engelska (flytande)
+
+## Övrigt
+
+**Körkort:** B • **Tillgänglighet/ort:** Kan **pendla eller flytta till Arboga**; start enligt överenskommelse.
 
 ---
 
-## UTBILDNING
-
-**Kommande utbildning: Nätverksadministration**  
-_Distansstudier, september–oktober 2025_
-
-- Fördjupning i grundläggande nätverksteknik, servermiljöer och uppbyggnad av nätverkslösningar
-- Praktisk träning i installation, konfiguration och felsökning av nätverksutrustning
-- Genomgång av moderna principer för nätverkssäkerhet och integritet i IT-miljöer
-
-**AI 1 – Introduktion till artificiell intelligens** _(pågående)_  
-_Distansstudier, 2025_
-
-- Läser en grundläggande kurs inom AI med fokus på moderna tekniker och framtidens IT-landskap.
-
-**Systemutveckling med .NET**  
-_Yrkeshögskolan i Borås_  
-**Sep 2021 – Jun 2023**
-
-- Genomgått en tvåårig utbildning med fokus på .NET, C#, databaser, frontend och agil utveckling.
-- Praktik och examensarbete genomfördes på Volvo Powertrain och Volvo Trucks.
-
-**Teknikprogrammet – Information och medieteknik**  
-_Peder Skrivares skola, Varberg_  
-**Aug 2017 – Jun 2020**
-
----
-
-## TEKNISK KOMPETENS
-
-**System & Infrastruktur:**  
-Linux, Windows Server, nätverk, databaser, API:er, Git
-
-**Språk & Ramverk:**  
-C#, JavaScript, TypeScript, React, SQL, Node.js, .NET
-
-**Arbetssätt:**  
-Agil utveckling, dokumentation, systemintegration, testning
-
----
-
-## SPRÅK
-
-- **Svenska:** Modersmål
-- **Engelska:** Flytande
-
----
-
-## ÖVRIGT
-
-- **Körkort:** B
-
----
-
-## REFERENSER
-
-Referenser lämnas gärna på begäran.
+**Referenser lämnas gärna på begäran.**
