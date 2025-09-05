@@ -1,35 +1,33 @@
 # Hampus Andersson
 
-**Systemutvecklare**  
+**Systemutvecklare / IT-tekniker**  
 [GitHub](https://github.com/HampusAndersson01) | [LinkedIn](https://www.linkedin.com/in/hampusandersson01)  
-Västra Åpromenaden 22A, 731 32 Köping  
+Uddarnas väg 4C, 43294 Varberg  
 076-337 15 17 | hampe.01@hotmail.com
 
 ---
 
-## Personligt Brev
+## Personligt brev
 
-**Hej,**
+**Till Försvarsmakten, FMTIS Arboga**
 
-Jag heter Hampus Andersson och har nyligen flyttat till Köping där jag kombinerar studier i artificiell intelligens med en ambition att växa vidare inom IT. Med erfarenhet från Volvo Trucks, både genom praktik och examensarbete, samt flera års arbete inom service och support, söker jag nu en teknisk roll via Randstad där jag kan bidra med min kompetens och fortsätta utvecklas.
+Att få bidra till Sveriges säkerhet genom mitt arbete är både meningsfullt och motiverande för mig. Därför söker jag med stort intresse tjänsten som IT-systemförvaltare hos Försvarsmakten i Arboga. Jag har erfarenhet av systemutveckling i komplexa miljöer, ett växande fokus på IT-drift och en hög säkerhetsmedvetenhet. Nu vill jag ta ansvar för att förvalta och vidareutveckla viktiga IT-system inom en samhällsbärande organisation.
 
-### Bred teknisk kompetens och erfarenhet från industrin
+### Erfarenhet från avancerad IT-miljö
 
-Mitt examensarbete på Volvo Trucks fokuserade på att utveckla en parameterdatabas med tillhörande intern applikation och API. Jag ansvarade för hela lösningen – från kravinsamling och databasdesign till frontend-utveckling i React och backend i Node.js. Systemet togs emot mycket positivt och används idag som grund för vidare utveckling inom organisationen.
+Under min praktik på Volvo Powertrain deltog jag i ett utvecklingsteam med fokus på C#, API:er, databaser och systemintegration. Arbetet genomfördes i nära samarbete med produktägare och andra utvecklare. Jag var delaktig i hela utvecklingskedjan, inklusive dokumentation och testning. Dessa erfarenheter har gett mig insikt i vikten av strukturer, tydlig kommunikation och kvalitet i alla led.
 
-Innan dess genomförde jag en längre praktik på Volvo Powertrain i Göteborg (november 2022 till juni 2023), där jag arbetade i ett C#-team i en agil miljö. Där fick jag erfarenhet av att samarbeta i större utvecklingsprojekt, hantera integrationer och arbeta med kvalitetssäkring och dokumentation. Tillsammans visar dessa två erfarenheter att jag både kan bidra i team och driva egna tekniska lösningar från idé till färdig produkt.
+### Teknisk bredd och framtidsfokus
 
-### Servicevana och god samarbetsförmåga
+Jag har en stabil grund inom .NET-utveckling och backend, men är också intresserad av Linux, servrar och IT-säkerhet. I mitten av september till oktober kommer jag att gå en kortare utbildning i nätverksadministration som breddar min kompetens inom infrastruktur, operativsystem och säkerhet. Jag vill gärna använda dessa kunskaper praktiskt inom en verksamhet som prioriterar robusta och säkra system.
 
-Min tidigare bakgrund inom lager, butik och skola har gett mig god erfarenhet av att arbeta serviceinriktat och lösningsfokuserat. Jag har lätt för att samarbeta med både tekniker och slutanvändare, kommunicerar tydligt och trivs i roller där jag får vara ett tekniskt stöd.
+### Personliga egenskaper och värderingar
 
-### Snabblärd, nyfiken och flexibel
-
-Jag sätter mig snabbt in i nya system och arbetsflöden och har ett stort intresse för IT-drift, molnteknik och cybersäkerhet. Mina nuvarande AI-studier kompletterar min tekniska bakgrund och håller mig uppdaterad kring nya teknologier. Jag är öppen för uppdrag inom support, systemadministration, test eller utveckling och anpassar mig lätt efter verksamhetens behov.
+Jag är ansvarstagande, strukturerad och samarbetsinriktad. Genom fotboll, som jag har spelat större delen av livet, har jag lärt mig vikten av lagarbete, disciplin och långsiktigt engagemang. Dessa erfarenheter speglar mitt sätt att arbeta även i yrkeslivet. Jag trivs i sammanhang där jag får bidra till ett större syfte och där gemensamma mål står i fokus.
 
 ---
 
-Jag ser fram emot att höra mer om vilka uppdrag som kan passa min profil och att få visa vad jag kan bidra med i en framtida roll via Randstad. Tack för att ni tagit er tid att läsa mitt brev.
+Jag ser fram emot möjligheten att berätta mer om hur jag kan bidra som IT-systemförvaltare. Tack för att ni tagit er tid att läsa mitt brev.
 
 **Vänliga hälsningar**  
 Hampus Andersson
